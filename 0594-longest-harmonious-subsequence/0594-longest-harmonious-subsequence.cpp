@@ -10,7 +10,7 @@ public:
         }
 
 
-        for(auto it : mp)
+        for(auto& it : mp)
         {
             if(mp.find(it.first + 1) != mp.end())
             {
