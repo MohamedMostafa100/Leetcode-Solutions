@@ -21,10 +21,12 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [2140-longest-subsequence-repeated-k-times](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3617-find-the-original-typed-string-i](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3617-find-the-original-typed-string-i) |
+| [3618-find-the-original-typed-string-ii](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3618-find-the-original-typed-string-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [3618-find-the-original-typed-string-ii](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3618-find-the-original-typed-string-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -70,4 +72,8 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
+## Prefix Sum
+|  |
+| ------- |
+| [3618-find-the-original-typed-string-ii](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3618-find-the-original-typed-string-ii) |
 <!---LeetCode Topics End-->
