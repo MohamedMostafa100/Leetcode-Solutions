@@ -80,14 +80,17 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 |  |
 | ------- |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Recursion
 |  |
 | ------- |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Simulation
 |  |
 | ------- |
