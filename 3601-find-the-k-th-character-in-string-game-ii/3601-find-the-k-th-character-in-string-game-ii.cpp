@@ -1,18 +1,15 @@
 class Solution {
 public:
     char kthCharacter(long long k, vector<int>& operations) {
-        int ans = 0;
-        int t;
-        while (k != 1) {
-            t = __lg(k);
-            if (((long long)1 << t) == k) {
-                t--;
+        char res = 'a';
+        int steps = 0;
+        while (k > 1) {
+            if(operations[floor(log2(k - 1))] == 1)
+            {
+                steps++;
             }
-            k = k - ((long long)1 << t);
-            if (operations[t]) {
-                ans++;
-            }
+            k -= pow(2, floor(log2(k - 1)));
         }
-        return 'a' + (ans % 26);
+        return res + (steps % 26);
     }
 };
