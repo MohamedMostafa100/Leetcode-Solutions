@@ -7,6 +7,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2140-longest-subsequence-repeated-k-times) |
 ## Enumeration
 |  |
@@ -53,6 +55,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Sorting
 |  |
