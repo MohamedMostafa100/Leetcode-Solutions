@@ -1,42 +1,54 @@
 class Solution {
 public:
     int mostBooked(int n, vector<vector<int>>& meetings) {
-        vector<long long> roomAvailabilityTime(n, 0);
-        vector<int> meetingCount(n, 0);
+        int res = 0;
+        vector<int> used(n, 0);
+        priority_queue<int, vector<int>, greater<int>> rooms;
+        priority_queue<pair<long long, int>, vector<pair<long long, int>>, greater<pair<long long, int>>> endTimes;
         sort(meetings.begin(), meetings.end());
+        for(int i = 0; i < n; i++)
+        {
+            rooms.push(i);
+        }
 
-        for (auto& meeting: meetings) {
-            int start = meeting[0], end = meeting[1];
-            long long minRoomAvailabilityTime = LLONG_MAX;
-            int minAvailableTimeRoom = 0;
-            bool foundUnusedRoom = false;
-
-            for (int i = 0; i < n; i++) {
-                if (roomAvailabilityTime[i] <= start) {
-                    foundUnusedRoom = true;
-                    meetingCount[i]++;
-                    roomAvailabilityTime[i] = end;
-                    break;
-                }
-
-                if (minRoomAvailabilityTime > roomAvailabilityTime[i]) {
-                    minRoomAvailabilityTime = roomAvailabilityTime[i];
-                    minAvailableTimeRoom = i;
-                }
+        for(int i = 0; i < meetings.size(); i++)
+        {
+            while(!endTimes.empty() && meetings[i][0] >= endTimes.top().first)
+            {
+                rooms.push(endTimes.top().second);
+                endTimes.pop();
             }
 
-            if (!foundUnusedRoom) {
-                roomAvailabilityTime[minAvailableTimeRoom] += end - start;
-                meetingCount[minAvailableTimeRoom]++;
+            if(!rooms.empty())
+            {
+                endTimes.push({meetings[i][1], rooms.top()});
+                used[rooms.top()]++;
+                if(used[rooms.top()] > used[res])
+                {
+                    res = rooms.top();
+                }
+                else if(used[rooms.top()] == used[res] && rooms.top() < res)
+                {
+                    res = rooms.top();
+                }
+                rooms.pop();
+            }
+            else
+            {
+                long long newStart = endTimes.top().first;
+                endTimes.push({newStart + meetings[i][1] - meetings[i][0], endTimes.top().second});
+                used[endTimes.top().second]++;
+                if(used[endTimes.top().second] > used[res])
+                {
+                    res = endTimes.top().second;
+                }
+                else if(used[endTimes.top().second] == used[res] && endTimes.top().second < res)
+                {
+                    res = endTimes.top().second;
+                }
+                endTimes.pop();
             }
         }
-        int maxMeetingCount = 0, maxMeetingCountRoom = 0;
-        for (int i = 0; i < n; i++) {
-            if (meetingCount[i] > maxMeetingCount) {
-                maxMeetingCount = meetingCount[i];
-                maxMeetingCountRoom = i;
-            }
-        }
-        return maxMeetingCountRoom;
+        return res;
     }
 };
