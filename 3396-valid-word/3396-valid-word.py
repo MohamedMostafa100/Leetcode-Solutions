@@ -7,7 +7,7 @@ class Solution:
         conCount = False
 
         for char in word:
-            if char.lower() in "aeiou":
+            if char.lower() in {'a', 'e', 'i', 'o', 'u'}:
                 vowelCount = True
             elif not char.isdigit():
                 conCount = True
