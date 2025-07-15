@@ -5,14 +5,14 @@ public:
         {
             return false;
         }
-        unordered_set<char> vowels = {'a', 'e', 'i', 'o', 'u'};
         bool containsVowel = false;
         bool containsCon = false;
         for(int i = 0; i < word.length(); i++)
         {
-            if((word[i] >= 'A' && word[i] <= 'Z') || (word[i] >= 'a' && word[i] <= 'z'))
+            if(isalpha(word[i]))
             {
-                if(vowels.find((1 << 5) | word[i]) != vowels.end())
+                char lowercase = (1 << 5) | word[i];
+                if(lowercase == 'a' || lowercase == 'e' || lowercase == 'i' || lowercase == 'o' || lowercase == 'u')
                 {
                     containsVowel = true;
                 } 
@@ -21,13 +21,12 @@ public:
                     containsCon = true;
                 }
             }
-            else if(word[i] >= '0' && word[i] <= '9')
-            {
-                continue;
-            }
             else
             {
-                return false;
+                if(!isdigit(word[i]))
+                {
+                    return false;
+                }            
             }
         }
 
