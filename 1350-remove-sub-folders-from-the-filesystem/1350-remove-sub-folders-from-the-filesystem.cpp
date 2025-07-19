@@ -17,6 +17,7 @@ public:
                 if(paths.find(s) != paths.end() && s.length() != folder[i].length())
                 {
                     paths.erase(folder[i]);
+                    break;
                 }
             }
         }
