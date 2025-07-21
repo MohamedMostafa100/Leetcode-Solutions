@@ -1,9 +1,13 @@
 class Solution:
     def makeFancyString(self, s: str) -> str:
         res = s[0]
-        if len(s) > 1:
-            res += s[1]
-        for i in range(2, len(s)):
-            if s[i] != s[i - 1] or s[i] != s[i - 2]:
-                res += s[i]
+        vioCount = 0
+        for c in s[1:]:
+            if c == res[-1]:
+                vioCount += 1
+                if vioCount >= 2:
+                    continue
+            else:
+                vioCount = 0
+            res += c
         return res
