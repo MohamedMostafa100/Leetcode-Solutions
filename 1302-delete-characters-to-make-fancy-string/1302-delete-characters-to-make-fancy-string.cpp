@@ -2,23 +2,20 @@ class Solution {
 public:
     string makeFancyString(string s) {
         string res = "";
-        char lastChar = s[0];
-        res += lastChar;
-        int vioCount = 1;
-
+        res += s[0];
+        int vioCount = 0;
         for(int i = 1; i < s.length(); i++){
-            if(lastChar == s[i])
+            if(s[i] == s[i - 1])
             {
                 vioCount++;
-                if(vioCount >= 3)
+                if(vioCount >= 2)
                 {
                     continue;
                 }
             }
             else
             {
-                lastChar = s[i];
-                vioCount = 1;
+                vioCount = 0;
             }
             res += s[i];
         }
