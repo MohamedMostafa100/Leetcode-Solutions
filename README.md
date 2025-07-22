@@ -125,6 +125,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Simulation
@@ -150,6 +152,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Depth-First Search
 |  |
