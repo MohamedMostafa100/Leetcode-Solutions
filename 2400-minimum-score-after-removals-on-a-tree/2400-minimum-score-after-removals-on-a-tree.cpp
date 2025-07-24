@@ -6,16 +6,13 @@ public:
         vector<vector<int>> graph(nums.size());
         vector<int> xors(nums.size());
         vector<unordered_set<int>> descendants(nums.size());
-        for(int i = 0; i < nums.size(); i++)
-        {
-            sum ^= nums[i];
-        }
         for(int i = 0; i < edges.size(); i++)
         {
             graph[edges[i][0]].push_back(edges[i][1]);
             graph[edges[i][1]].push_back(edges[i][0]);
         }
         dfs(nums, graph, xors, descendants, 0, -1);
+        sum = xors[0];
         for(int i = 1; i < nums.size(); i++)
         {
             for(int j = i + 1; j < nums.size(); j++)
