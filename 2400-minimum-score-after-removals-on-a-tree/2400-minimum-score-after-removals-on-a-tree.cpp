@@ -1,74 +1,67 @@
 class Solution {
 public:
     int minimumScore(vector<int>& nums, vector<vector<int>>& edges) {
-        int n = nums.size();
-        vector<vector<int>> graph(n);
-        vector<unordered_set<int>> children(n);
-        vector<int> xor_val(nums);
-        vector<int> degree(n, 0);
-
-        for (const auto& e : edges) {
-            int u = e[0], v = e[1];
-            graph[u].push_back(v);
-            graph[v].push_back(u);
-            degree[u]++;
-            degree[v]++;
-        }
-
-        int total = 0;
-        queue<int> q;
-        vector<bool> seen(n, false);
-
-        for (int i = 0; i < n; ++i) {
-            total ^= nums[i];
-            if (degree[i] == 1) {
-                q.push(i);
-                seen[i] = true;
-            }
-        }
-
-        while (!q.empty()) {
-            int cur = q.front();
-            q.pop();
-            for (int next : graph[cur]) {
-                if (!seen[next]) {
-                    children[next].insert(cur);
-                    children[next].insert(children[cur].begin(), children[cur].end());
-                    xor_val[next] ^= xor_val[cur];
-                }
-                degree[next]--;
-                if (degree[next] == 1 && !seen[next]) {
-                    seen[next] = true;
-                    q.push(next);
-                }
-            }
-        }
-
         int res = INT_MAX;
-        int m = edges.size();
-        for (int i = 0; i < m - 1; ++i) {
-            for (int j = i + 1; j < m; ++j) {
-                int a = edges[i][0], b = edges[i][1];
-                if (children[a].count(b)) swap(a, b);
-
-                int c = edges[j][0], d = edges[j][1];
-                if (children[c].count(d)) swap(c, d);
-
-                vector<int> vals;
-                if (children[a].count(c)) {
-                    vals = {xor_val[c], xor_val[a] ^ xor_val[c], total ^ xor_val[a]};
-                } else if (children[c].count(a)) {
-                    vals = {xor_val[a], xor_val[c] ^ xor_val[a], total ^ xor_val[c]};
-                } else {
-                    vals = {xor_val[a], xor_val[c], total ^ xor_val[a] ^ xor_val[c]};
+        int sum = 0;
+        vector<vector<int>> graph(nums.size());
+        vector<int> xors(nums.size());
+        vector<unordered_set<int>> descendants(nums.size());
+        for(int i = 0; i < nums.size(); i++)
+        {
+            sum ^= nums[i];
+        }
+        for(int i = 0; i < edges.size(); i++)
+        {
+            graph[edges[i][0]].push_back(edges[i][1]);
+            graph[edges[i][1]].push_back(edges[i][0]);
+        }
+        dfs(nums, graph, xors, descendants, 0, -1);
+        for(int i = 1; i < nums.size(); i++)
+        {
+            for(int j = i + 1; j < nums.size(); j++)
+            {
+                int part1 = 0;
+                int part2 = 0;
+                int part3 = 0;
+                if(descendants[i].find(j) != descendants[i].end())
+                {
+                    part1 = xors[i] ^ xors[j];
+                    part2 = xors[j];
+                    part3 = sum ^ xors[i];
                 }
-
-                int max_v = *max_element(vals.begin(), vals.end());
-                int min_v = *min_element(vals.begin(), vals.end());
-                res = min(res, max_v - min_v);
+                else if(descendants[j].find(i) != descendants[j].end())
+                {
+                    part1 = xors[j] ^ xors[i];
+                    part2 = xors[i];
+                    part3 = sum ^ xors[j];
+                }
+                else
+                {
+                    part1 = xors[i];
+                    part2 = xors[j];
+                    part3 = sum ^ xors[i] ^ xors[j];
+                }
+                int score = max({part1, part2, part3}) - min({part1, part2, part3});
+                res = min(res, score);
             }
         }
-
         return res;
+    }
+
+private:
+    void dfs(vector<int>& nums, vector<vector<int>>& graph, vector<int>& xors, vector<unordered_set<int>>& descendants, int node, int parent)
+    {
+        xors[node] = nums[node];
+        descendants[node].insert(node);
+        for(int i = 0; i < graph[node].size(); i++)
+        {
+            if(graph[node][i] != parent)
+            {
+                dfs(nums, graph, xors, descendants, graph[node][i], node);
+                descendants[node].insert(graph[node][i]);
+                xors[node] ^= xors[graph[node][i]];
+                descendants[node].insert(descendants[graph[node][i]].begin(), descendants[graph[node][i]].end());
+            }
+        }
     }
 };
