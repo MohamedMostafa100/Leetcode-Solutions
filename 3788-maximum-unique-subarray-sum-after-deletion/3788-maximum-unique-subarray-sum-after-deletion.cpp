@@ -1,30 +1,23 @@
 class Solution {
 public:
     int maxSum(vector<int>& nums) {
-        unordered_set<int> inArr;
-        int res = -1;
-        int sum = 0;
-        int maxNeg = INT_MIN;
-        for(int i = 0; i < nums.size(); i++)
+        sort(nums.begin(), nums.end());
+        if(nums[nums.size() - 1] <= 0)
         {
-            if(nums[i] >= 0 && !inArr.count(nums[i]))
+            return nums[nums.size() - 1];
+        }
+        int res = nums[nums.size() - 1];
+        for(int i = nums.size() - 2; i >= 0; i--)
+        {
+            if(nums[i] <= 0)
             {
-                sum += nums[i];
-                res = max(res, sum);
-                inArr.insert(nums[i]);
+                break;
             }
-            else if(nums[i] < 0)
+            if(nums[i] != nums[i + 1])
             {
-                maxNeg = max(maxNeg, nums[i]);
-            }
+                res += nums[i];
+            } 
         }
-        if(res == -1)
-        {
-            return maxNeg;
-        }
-        else
-        {
-            return res;
-        }
+        return res;
     }
 };
