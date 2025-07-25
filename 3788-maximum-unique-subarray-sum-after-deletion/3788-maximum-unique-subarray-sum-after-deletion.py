@@ -9,7 +9,7 @@ class Solution:
                 sum += num
                 res = max(res, sum)
                 inArr.add(num)
-            else:
+            elif num < 0:
                 maxNeg = max(maxNeg, num)
         if res == -1:
             return maxNeg
