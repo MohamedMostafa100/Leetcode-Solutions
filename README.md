@@ -36,6 +36,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Sliding Window
