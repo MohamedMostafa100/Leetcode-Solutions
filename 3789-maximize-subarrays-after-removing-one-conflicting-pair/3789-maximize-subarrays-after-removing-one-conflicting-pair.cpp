@@ -1,40 +1,40 @@
-#include <vector>
-#include <algorithm>
-
 class Solution {
 public:
-    long long maxSubarrays(int n, std::vector<std::vector<int>>& conflictingPairs) {
-        std::vector<std::vector<int>> right(n + 1);
-        for (const auto& pair : conflictingPairs) {
-            right[std::max(pair[0], pair[1])].push_back(std::min(pair[0], pair[1]));
+    long long maxSubarrays(int n, vector<vector<int>>& conflictingPairs) {
+        long long res = 0;
+        vector<vector<int>> forbidden(n + 1);
+        for(int i = 0; i < conflictingPairs.size(); i++)
+        {
+            forbidden[max(conflictingPairs[i][0], conflictingPairs[i][1])].push_back(min(conflictingPairs[i][0], conflictingPairs[i][1]));
         }
-
-        long long ans = 0;
-        std::vector<long long> left = {0, 0};
-        std::vector<long long> bonus(n + 1, 0);
-
-        for (int r = 1; r <= n; ++r) {
-            for (int l_val : right[r]) {
-                // Manually update top two values
-                if (l_val > left[0]) {
-                    left = {static_cast<long long>(l_val), left[0]};
-                } else if (l_val > left[1]) {
-                    left = {left[0], static_cast<long long>(l_val)};
+        int top1 = 0;
+        int top2 = 0;
+        vector<long long> bonus(n + 1, 0);
+        for(int i = 0; i <= n; i++)
+        {
+            for(int j = 0; j < forbidden[i].size(); j++)
+            {
+                if(forbidden[i][j] > top1)
+                {
+                    top2 = top1;
+                    top1 = forbidden[i][j];
+                }
+                else if(forbidden[i][j] > top2)
+                {
+                    top2 = forbidden[i][j];
                 }
             }
-
-            ans += r - left[0];
-            
-            if (left[0] > 0) {
-                bonus[left[0]] += left[0] - left[1];
+            res += i - (long long)top1;
+            if(top1 > 0)
+            {
+                bonus[top1] += (long long)top1 - top2;
             }
         }
-        
-        long long max_bonus = 0;
-        for(long long b : bonus) {
-            max_bonus = std::max(max_bonus, b);
+        long long maxBonus = 0;
+        for(int i = 0; i < bonus.size(); i++)
+        {
+            maxBonus = max(maxBonus, bonus[i]);
         }
-
-        return ans + max_bonus;
+        return res + maxBonus;
     }
 };
