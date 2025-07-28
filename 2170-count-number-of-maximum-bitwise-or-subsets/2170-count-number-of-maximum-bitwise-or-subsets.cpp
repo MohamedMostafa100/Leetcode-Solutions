@@ -6,19 +6,18 @@ public:
         for (int i = 0; i < nums.size(); i++) {
             maxOr |= nums[i];
         }
-        solve(nums, 0, maxOr, 0, res);
+        res = solve(nums, 0, 0, maxOr);
         return res;
     }
 
 private:
-    void solve(vector<int>& nums, int idx, int& maxOr, int cur, int& count) {
+    int solve(vector<int>& nums, int idx, int cur, int& maxOr) {
         if (idx == nums.size()) {
-            return;
+            return cur == maxOr ? 1 : 0;
         }
-        if ((cur | nums[idx]) == maxOr) {
-            count++;
-        }
-        solve(nums, idx + 1, maxOr, cur | nums[idx], count);
-        solve(nums, idx + 1, maxOr, cur, count);
+        int count = 0;
+        count += solve(nums, idx + 1, cur | nums[idx], maxOr);
+        count += solve(nums, idx + 1, cur, maxOr);
+        return count;
     }
 };
