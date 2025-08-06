@@ -1,27 +1,30 @@
 class Solution {
 public:
     int totalFruit(vector<int>& fruits) {
-        int last = -1, secondLast = -1;
-        int lastCount = 0, curr = 0, maxFruits = 0;
-
-        for (int fruit : fruits) {
-            if (fruit == last || fruit == secondLast) {
-                curr++;
-            } else {
-                curr = lastCount + 1;
+        int res = 0;
+        int l = 0;
+        int type1 = -1;
+        int type2 = -1;
+        int jumpNum = -1;
+        int jumpIdx = -1;
+        for (int r = 0; r < fruits.size(); r++) {
+            if (type1 == -1) {
+                type1 = fruits[r];
+                jumpNum = type1;
+                jumpIdx = r;
+            } else if (type2 == -1 && fruits[r] != type1) {
+                type2 = fruits[r];
+            } else if (fruits[r] != type1 && fruits[r] != type2) {
+                type2 = fruits[r];
+                l = jumpIdx;
+                type1 = fruits[l];
             }
-
-            if (fruit == last) {
-                lastCount++;
-            } else {
-                lastCount = 1;
-                secondLast = last;
-                last = fruit;
+            if (fruits[r] != jumpNum) {
+                jumpNum = fruits[r];
+                jumpIdx = r;
             }
-
-            maxFruits = max(maxFruits, curr);
+            res = max(res, r - l + 1);
         }
-
-        return maxFruits;
+        return res;
     }
 };
