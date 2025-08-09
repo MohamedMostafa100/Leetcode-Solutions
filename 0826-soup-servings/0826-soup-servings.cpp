@@ -1,32 +1,38 @@
 class Solution {
 public:
     double soupServings(int n) {
-        int m = ceil(n / 25.0);
-        unordered_map<int, unordered_map<int, double>> dp;
-
-        function<double(int, int)> calculateDP = [&](int i, int j) -> double {
-            if (i <= 0 && j <= 0) {
+        double res = 0;
+        if(n > 5000)
+        {
+            return 1;
+        }
+        vector<vector<double>> dp(n + 1, vector<double>(n + 1, -1));
+        res = solve(dp, n, n);
+        return res;
+    }
+private:
+    double solve(vector<vector<double>>& dp, int a, int b)
+    {
+        if(a <= 0 || b <= 0)
+        {
+            if(a < b)
+            {
+                return 1;
+            }
+            else if(a == b)
+            {
                 return 0.5;
             }
-            if (i <= 0) {
-                return 1;
-            }
-            if (j <= 0) {
-                return 0;
-            }
-            if (dp[i].count(j)) {
-                return dp[i][j];
-            }
-            return dp[i][j] = (calculateDP(i - 4, j) + calculateDP(i - 3, j - 1) +
-                               calculateDP(i - 2, j - 2) + calculateDP(i - 1, j - 3)) /
-                              4;
-        };
-
-        for (int k = 1; k <= m; k++) {
-            if (calculateDP(k, k) > 1 - 1e-5) {
-                return 1;
-            }
+            return 0;
         }
-        return calculateDP(m, m);
+        if(dp[a][b] == -1)
+        {
+            dp[a][b] = 0;
+            dp[a][b] += 0.25 * solve(dp, a - 100, b);
+            dp[a][b] += 0.25 * solve(dp, a - 75, b - 25);
+            dp[a][b] += 0.25 * solve(dp, a - 50, b - 50);
+            dp[a][b] += 0.25 * solve(dp, a - 25, b - 75);
+        }
+        return dp[a][b];
     }
 };
