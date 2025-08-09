@@ -16,8 +16,6 @@ private:
     {
         if(a <= 0 || b <= 0)
         {
-            a = max(a, 0);
-            b = max(b, 0);
             if(a < b)
             {
                 return 1;
