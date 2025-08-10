@@ -6,6 +6,10 @@ public:
         for(unsigned int i = 1; i < (1ul << 31) - 1; i <<= 1)
         {
             string cmp = to_string(i);
+            if(cmp.length() > s.length())
+            {
+                break;
+            }
             sort(cmp.begin(), cmp.end());
             if(cmp == s)
             {
