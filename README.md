@@ -12,6 +12,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [0934-bitwise-ors-of-subarrays](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0940-fruit-into-baskets) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [0826-soup-servings](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0867-new-21-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 ## Matrix
 |  |
 | ------- |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Probability and Statistics
 |  |
