@@ -35,6 +35,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2529-range-product-queries-of-powers](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2529-range-product-queries-of-powers) |
 | [2689-rearranging-fruits](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2689-rearranging-fruits) |
+| [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [0900-reordered-power-of-2](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0900-reordered-power-of-2) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Hash Table
@@ -279,6 +281,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | ------- |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1628-count-submatrices-with-all-ones) |
+| [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Probability and Statistics
