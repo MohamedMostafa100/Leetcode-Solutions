@@ -16,9 +16,9 @@ private:
     {
         int res = INT_MAX;
         //3 Vertical Splits
-        for(int i = 0; i + 2 < grid[0].size(); i++)
+        for(int i = 0; i < grid[0].size() - 2; i++)
         {
-            for(int j = i + 1; j + 1 < grid[0].size(); j++)
+            for(int j = i + 1; j < grid[0].size() - 1; j++)
             {
                 int split1 = minimumArea(grid, 0, grid.size() - 1, 0, i);
                 int split2 = minimumArea(grid, 0, grid.size() - 1, i + 1, j);
@@ -27,9 +27,9 @@ private:
             }
         }
         //1 Vertical and 2 Horizontal Splits
-        for(int i = 0; i + 1 < grid.size(); i++)
+        for(int i = 0; i < grid.size() - 1; i++)
         {
-            for(int j = 0; j + 1 < grid[0].size(); j++)
+            for(int j = 0; j < grid[0].size() - 1; j++)
             {
                 int split1 = minimumArea(grid, 0, grid.size() - 1, 0, j);
                 int split2 = minimumArea(grid, 0, i, j + 1, grid[0].size() - 1);
@@ -65,6 +65,6 @@ private:
                 }
             }
         }
-        return (bottomRight.first - topLeft.first + 1) * (bottomRight.second - topLeft.second + 1);
+        return topLeft.first != -1 ? (bottomRight.first - topLeft.first + 1) * (bottomRight.second - topLeft.second + 1) : INT_MAX / 3;
     }
 };
