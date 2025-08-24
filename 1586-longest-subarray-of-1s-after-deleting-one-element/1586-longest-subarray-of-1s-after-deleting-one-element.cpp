@@ -18,6 +18,6 @@ public:
             }
         }
         res = max(res, before + after);
-        return res == nums.size() ? res - 1 : res;
+        return res != nums.size() ? res : res - 1;
     }
 };
