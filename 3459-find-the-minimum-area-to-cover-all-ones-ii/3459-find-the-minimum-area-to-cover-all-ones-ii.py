@@ -11,9 +11,7 @@ class Solution:
                     else:
                         topLeft = (topLeft[0], min(topLeft[1], j))
                         bottomRight = (i, max(bottomRight[1], j))
-        if topLeft == None:
-            return float('inf') / 3
-        return (bottomRight[0] - topLeft[0] + 1) * (bottomRight[1] - topLeft[1] + 1)
+        return (bottomRight[0] - topLeft[0] + 1) * (bottomRight[1] - topLeft[1] + 1) if topLeft else float('inf') / 3
     def solve(self, grid: List[List[int]]) -> int:
         res = float('inf')
         #3 Vertical Splits
