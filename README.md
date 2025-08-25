@@ -7,6 +7,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
+| [0498-diagonal-traverse](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0498-diagonal-traverse) |
 | [0594-longest-harmonious-subsequence](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0679-24-game](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0679-24-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 ## Simulation
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0498-diagonal-traverse) |
 | [2479-meeting-rooms-iii](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2479-meeting-rooms-iii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 ## Matrix
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0498-diagonal-traverse) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
