@@ -228,6 +228,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [3279-alice-and-bob-playing-flower-game](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
+| [3830-find-closest-person](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3830-find-closest-person) |
 ## Bit Manipulation
 |  |
 | ------- |
