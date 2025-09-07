@@ -1,23 +1,31 @@
 class Solution {
-    using ll = long long;
-
 public:
-    ll get(int num) {
-        int i = 1;
-        int base = 1;
-        ll cnt = 0;
-        while (base <= num) {
-            cnt += 1ll * (i + 1) / 2 * (min(base * 2 - 1, num) - base + 1);
-            i++;
-            base *= 2;
-        }
-        return cnt;
-    }
     long long minOperations(vector<vector<int>>& queries) {
-        ll res = 0;
-        for (auto& q : queries) {
-            res += (get(q[1]) - get(q[0] - 1) + 1) / 2;
+        long long res = 0;
+        for(int i = 0; i < queries.size(); i++)
+        {
+            res += numOperations(queries[i][0], queries[i][1]);
         }
         return res;
+    }
+private:
+    long long numOperations(int s, int e)
+    {
+        char pow = 1;
+        int base = 4;
+        int last = s;
+        long long ops = 0;
+        while(base <= e)
+        {
+            if(base > last)
+            {
+                ops += ((long long)base - last) * pow;
+                last = base;
+            }
+            base <<= 2;
+            pow++;
+        }
+        ops += ((long long)e - last + 1) * pow;
+        return ceil((double)ops / 2);
     }
 };
