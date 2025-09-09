@@ -1,28 +1,24 @@
 class Solution {
 public:
     int peopleAwareOfSecret(int n, int delay, int forget) {
-        deque<pair<int, int>> know, share;
-        know.emplace_back(1, 1);
-        int know_cnt = 1, share_cnt = 0;
-        for (int i = 2; i <= n; ++i) {
-            if (!know.empty() && know[0].first == i - delay) {
-                know_cnt = (know_cnt - know[0].second + mod) % mod;
-                share_cnt = (share_cnt + know[0].second) % mod;
-                share.push_back(know[0]);
-                know.pop_front();
+        long long res = 0;
+        int mod = 1000000007;
+        vector<long long> tellDays(n + 1, 0);
+        vector<long long> toAdd(n + 1, 0);
+        toAdd[1] = 1;
+        tellDays[1] = 1;
+        for (int i = 1; i <= n; i++) {
+            if (tellDays[i] != 0) {
+                for (int j = i + delay; j < min(n + 1, i + forget); j++) {
+                    toAdd[j] += tellDays[i] % mod;
+                    tellDays[j] = (tellDays[j] + tellDays[i]) % mod;
+                }
+                if (i + forget <= n) {
+                    toAdd[i + forget] -= tellDays[i];
+                }
             }
-            if (!share.empty() && share[0].first == i - forget) {
-                share_cnt = (share_cnt - share[0].second + mod) % mod;
-                share.pop_front();
-            }
-            if (!share.empty()) {
-                know_cnt = (know_cnt + share_cnt) % mod;
-                know.emplace_back(i, share_cnt);
-            }
+            res = (res + toAdd[i]) % mod;
         }
-        return (know_cnt + share_cnt) % mod;
+        return (res + mod) % mod;
     }
-
-private:
-    static constexpr int mod = 1000000007;
 };
