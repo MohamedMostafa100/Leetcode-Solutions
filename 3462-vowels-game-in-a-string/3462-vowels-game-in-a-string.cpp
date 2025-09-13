@@ -2,9 +2,9 @@ class Solution {
 public:
     bool doesAliceWin(string s) {
         int vowels = 0;
-        for(int i = 0; i < s.length(); i++)
+        for(auto& ch : s)
         {
-            if(s[i] == 'a' || s[i] == 'e' || s[i] == 'i' || s[i] == 'o' || s[i] == 'u')
+            if(ch == 'a' || ch == 'e' || ch == 'i' || ch == 'o' || ch == 'u')
             {
                 vowels++;
             }
