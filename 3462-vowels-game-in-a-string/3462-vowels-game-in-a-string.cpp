@@ -9,10 +9,10 @@ public:
                 vowels++;
             }
         }
-        if(vowels == 0)
+        if(vowels > 0)
         {
-            return false;
+            return true;
         }
-        return true;
+        return false;
     }
 };
