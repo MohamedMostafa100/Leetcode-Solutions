@@ -34,6 +34,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1448-maximum-69-number) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -313,6 +315,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [0094-binary-tree-inorder-traversal](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [1628-count-submatrices-with-all-ones](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Tree
 |  |
 | ------- |
@@ -374,4 +377,8 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3462-vowels-game-in-a-string) |
+## Number Theory
+|  |
+| ------- |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 <!---LeetCode Topics End-->
