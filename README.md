@@ -9,6 +9,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [0036-valid-sudoku](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
 | [0118-pascals-triangle](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0120-triangle) |
 | [0498-diagonal-traverse](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0498-diagonal-traverse) |
 | [0594-longest-harmonious-subsequence](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0679-24-game](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0679-24-game) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0118-pascals-triangle](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0120-triangle) |
 | [0826-soup-servings](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0867-new-21-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0934-bitwise-ors-of-subarrays) |
