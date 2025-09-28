@@ -265,6 +265,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0007-reverse-integer) |
 | [0166-fraction-to-recurring-decimal](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0231-power-of-two](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0326-power-of-three) |
