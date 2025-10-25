@@ -1,36 +1,56 @@
 class Solution {
 public:
     int nextBeautifulNumber(int n) {
-        vector<int> list;
-        vector<int> count(10, 0);
-        generate(0, count, list);
-        sort(list.begin(), list.end());
-        for (int num : list) {
-            if (num > n) return num;
+        vector<int> freq(10, 0);
+        vector<int> nums;
+        generate(freq, nums, 0);
+        sort(nums.begin(), nums.end());
+        int l = 0;
+        int r = nums.size();
+        while(l < r)
+        {
+            int mid = (l + r) / 2;
+            if(nums[mid] > n)
+            {
+                r = mid;
+            }
+            else
+            {
+                l = mid + 1;
+            }
         }
-        return -1;
+        return nums[l];
     }
-
 private:
-    void generate(long num, vector<int>& count, vector<int>& list) {
-        if (num > 0 && isBeautiful(count)) {
-            list.push_back((int)num);
+    void generate(vector<int>& freq, vector<int>& nums, int n)
+    {
+        if(n > 1224444)
+        {
+            return;
         }
-        if (num > 1224444) return;
-
-        for (int d = 1; d <= 7; ++d) {
-            if (count[d] < d) {
-                count[d]++;
-                generate(num * 10 + d, count, list);
-                count[d]--;
+        for(int i = 1; i <= 7; i++)
+        {
+            if(freq[i] < i)
+            {
+                int num = n * 10 + i;
+                freq[i]++;
+                if(checkBalanced(freq) && num != 0)
+                {
+                    nums.push_back(num);
+                }
+                generate(freq, nums, num);
+                freq[i]--;
             }
         }
     }
-
-    bool isBeautiful(const vector<int>& count) {
-        for (int d = 1; d <= 7; ++d) {
-            if (count[d] != 0 && count[d] != d)
+    bool checkBalanced(vector<int>& freq)
+    {
+        for(int i = 1; i <= 7; i++)
+        {
+            if(freq[i] != 0 && freq[i] != i)
+            {
                 return false;
+            }
         }
         return true;
     }
