@@ -7,12 +7,12 @@ public:
             if(num1 > num2)
             {
                 res += (num1 / num2);
-                num1 -= num2 * (num1 / num2);
+                num1 %= num2;
             }
             else if(num2 > num1)
             {
                 res += (num2 / num1);
-                num2 -= num1 * (num2 / num1);
+                num2 %= num1;
             }
             else
             {
