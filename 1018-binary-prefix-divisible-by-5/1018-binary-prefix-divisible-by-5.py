@@ -10,4 +10,5 @@ class Solution:
             else:
                 res.append(False)
             cur <<= 1
+            cur %= 5
         return res
