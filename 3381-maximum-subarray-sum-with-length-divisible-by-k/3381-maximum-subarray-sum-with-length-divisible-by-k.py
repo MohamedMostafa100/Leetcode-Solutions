@@ -3,8 +3,8 @@ class Solution:
         res = float('-inf')
         pre = [0 for _ in range(len(nums))]
         l = 0
-        sum = 0
-        for r in range(len(nums)):
+        sum = 0            
+        for r in range(0, len(nums)):
             sum += nums[r]
             if r - l + 1 < k:
                 pre[r] = nums[r]
@@ -12,13 +12,14 @@ class Solution:
                 pre[r] = sum
                 sum -= nums[l]
                 l += 1
-        for i in range(k - 1, len(nums)):
-            prev = 0
-            if i - k >= k - 1:
-                prev = pre[i - k] 
-            res = max(res, pre[i] + prev)
-            if pre[i] + prev < 0:
-                pre[i] = 0
-            else:
-                pre[i] += prev
+            if r >= k - 1:
+                prev = 0
+                if r - k >= k - 1:
+                    prev = pre[r - k] 
+                res = max(res, pre[r] + prev)
+                if pre[r] + prev < 0:
+                    pre[r] = 0
+                else:
+                    pre[r] += prev
+            
         return res
