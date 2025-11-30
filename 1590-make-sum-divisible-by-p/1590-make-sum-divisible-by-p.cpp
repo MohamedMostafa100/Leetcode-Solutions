@@ -3,13 +3,12 @@ public:
     int minSubarray(vector<int>& nums, int p) {
         int n = nums.size();
         int res = n;
-        unordered_map<int, stack<int>> mp;
-        int rem = 0;
+        unordered_map<int, int> mp;
+        int totRem = 0;
         for(int i = 0; i < n; i++)
         {
-            rem = (rem + nums[i]) % p;
-            mp[rem].push(i);
-            if(rem == 0)
+            totRem = (totRem + nums[i]) % p;
+            if(totRem == 0)
             {
                 res = min(res, n - i - 1);
                 if(res == 0)
@@ -18,24 +17,19 @@ public:
                 }
             }
         }
-        rem = 0;
-        for(int i = n - 1; i >= 0; i--)
+        int rem = 0;
+        for(int i = 0; i < n; i++)
         {
+            int sufRem = (totRem - rem) % p;
+            if(mp.find((p - sufRem) % p) != mp.end())
+            {
+                res = min(res, i - mp[(p - sufRem) % p] - 1);
+            }
             rem = (rem + nums[i]) % p;
-            if(rem == 0)
+            mp[rem] = i;
+            if(sufRem == 0)
             {
                 res = min(res, i);
-            }
-            if(mp.find((p - rem) % p) != mp.end())
-            {
-                while(!mp[(p - rem) % p].empty() && i <= mp[(p - rem) % p].top())
-                {
-                    mp[(p - rem) % p].pop();
-                }
-                if(!mp[(p - rem) % p].empty())
-                {
-                    res = min(res, i - mp[(p - rem) % p].top() - 1);
-                }
             }
         }
         if(res == n)
