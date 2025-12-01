@@ -161,6 +161,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2429-design-a-food-rating-system](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2429-design-a-food-rating-system) |
 | [2887-sort-vowels-in-a-string](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2887-sort-vowels-in-a-string) |
+| [3110-score-of-a-string](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3110-score-of-a-string) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3396-valid-word](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3396-valid-word) |
 | [3462-vowels-game-in-a-string](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3462-vowels-game-in-a-string) |
