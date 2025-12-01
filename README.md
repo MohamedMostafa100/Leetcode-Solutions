@@ -47,6 +47,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [1834-minimum-number-of-people-to-teach](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1917-maximum-average-pass-ratio](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1917-maximum-average-pass-ratio) |
+| [1920-build-array-from-permutation](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2023-design-movie-rental-system) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2079-delete-duplicate-folders-in-system) |
@@ -489,6 +490,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | ------- |
 | [0498-diagonal-traverse](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0498-diagonal-traverse) |
 | [1642-water-bottles](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1642-water-bottles) |
+| [1920-build-array-from-permutation](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2169-simple-bank-system) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
