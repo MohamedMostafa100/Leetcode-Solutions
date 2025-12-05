@@ -2,29 +2,39 @@ class Solution {
 public:
     int countCollisions(string directions) {
         int res = 0;
-        stack<char> stk;
-        for (int i = 0; i < directions.size(); i++) {
-            if (directions[i] == 'R') {
-                stk.push('R');
-            } else if (directions[i] == 'S') {
-                while (!stk.empty() && stk.top() == 'R') {
-                    res += 1;
-                    stk.pop();
+        bool stationary = false;
+        for(int i = 0; i < directions.size(); i++)
+        {
+            if(directions[i] == 'R')
+            {
+                int count = 0;
+                while(i < directions.size() && directions[i] == 'R')
+                {
+                    count++;
+                    i++;
                 }
-                stk.push('S');
-            } else {
-                if (!stk.empty()) {
-                    if (stk.top() == 'R') {
-                        res += 2;
-                        stk.pop();
-                        while (!stk.empty() && stk.top() == 'R') {
-                            res += 1;
-                            stk.pop();
-                        }
-                        stk.push('S');
-                    } else if (stk.top() == 'S') {
-                        res += 1;
+                if(i < directions.size())
+                {
+                    if(directions[i] == 'S')
+                    {
+                        res += count;
                     }
+                    else
+                    {
+                        res += count + 1;
+                    }
+                    stationary = true;
+                }
+            }
+            else if(directions[i] == 'S')
+            {
+                stationary = true;
+            }
+            else
+            {
+                if(stationary)
+                {
+                    res++;
                 }
             }
         }
