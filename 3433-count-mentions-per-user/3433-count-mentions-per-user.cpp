@@ -4,7 +4,6 @@ public:
         vector<int> res(numberOfUsers, 0);
         unordered_set<int> online;
         queue<pair<int, int>> offline;
-        int allEvents = 0;
         sort(events.begin(), events.end(), [](vector<string>& a, vector<string>& b){
             if(stoi(a[1]) < stoi(b[1]))
             {
