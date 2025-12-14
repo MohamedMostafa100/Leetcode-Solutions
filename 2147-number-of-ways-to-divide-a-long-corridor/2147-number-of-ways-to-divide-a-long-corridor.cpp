@@ -27,7 +27,6 @@ public:
         {
             return 0;
         }
-        segments.push_back(1);
         for(int i = 0; i < segments.size(); i++)
         {
             res = (res * 1LL * segments[i]) % MOD;
