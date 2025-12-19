@@ -1,19 +1,37 @@
 class Solution {
 public:
     long long maxProfit(vector<int>& prices, vector<int>& strategy, int k) {
-        int n = prices.size();
-        vector<long long> profitSum(n + 1);
-        vector<long long> priceSum(n + 1);
-        for (int i = 0; i < n; i++) {
-            profitSum[i + 1] = profitSum[i] + prices[i] * strategy[i];
-            priceSum[i + 1] = priceSum[i] + prices[i];
+        long long res = 0;
+        long long sum = 0;
+        long long windowSum = 0;
+        int l = 0;
+        vector<int> pre(prices.size(), 0);
+        for(int i = 0; i < prices.size(); i++)
+        {
+            sum += (prices[i] * strategy[i]);
+            windowSum += (prices[i] * strategy[i]);
+            if(i >= k - 1)
+            {
+                pre[i] = windowSum;
+                windowSum -= (prices[l] * strategy[l]);
+                l++;
+            }
         }
-        long long res = profitSum[n];
-        for (int i = k - 1; i < n; i++) {
-            long long leftProfit = profitSum[i - k + 1];
-            long long rightProfit = profitSum[n] - profitSum[i + 1];
-            long long changeProfit = priceSum[i + 1] - priceSum[i - k / 2 + 1];
-            res = max(res, leftProfit + changeProfit + rightProfit);
+        res = sum;
+        long long profit = 0;
+        l = 0;
+        for(int r = 0; r < prices.size(); r++)
+        {
+            if(r >= k / 2)
+            {
+                profit += prices[r];
+            }
+            if(r - l + 1 == k)
+            {
+                res = max(res, sum - pre[r] + profit);
+                profit -= prices[l + (k / 2)];
+                l++;
+            }
         }
         return res;
     }
