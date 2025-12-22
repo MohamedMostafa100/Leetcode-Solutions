@@ -1,39 +1,32 @@
 class Solution {
 public:
     int minDeletionSize(vector<string>& strs) {
-        int n = strs.size();
-        int m = strs[0].size();
-
-        // resolved[i] indicates strs[i] < strs[i+1] is finalized
-        vector<bool> resolved(n - 1, false);
-        int unresolved = n - 1;
-        int deletions = 0;
-
-        for (int col = 0; col < m && unresolved > 0; col++) {
-            bool bad = false;
-
-            // Check for lexicographical violation
-            for (int i = 0; i < n - 1; i++) {
-                if (!resolved[i] && strs[i][col] > strs[i + 1][col]) {
-                    bad = true;
+        int res = 0;
+        int start = 0;
+        int violation = false;
+        vector<bool> sorted(strs.size() - 1, false);
+        int unSorted = strs.size() - 1;
+        for (int i = 0; i < strs[0].length() && unSorted > 0; i++) {
+            violation = false;
+            for (int j = 1; j < strs.size(); j++) {
+                if (!sorted[j - 1] && strs[j][i] < strs[j - 1][i]) {
+                    res++;
+                    violation = true;
                     break;
                 }
             }
-
-            if (bad) {
-                deletions++;
-                continue;
-            }
-
-            // Lock in strictly ordered row pairs
-            for (int i = 0; i < n - 1; i++) {
-                if (!resolved[i] && strs[i][col] < strs[i + 1][col]) {
-                    resolved[i] = true;
-                    unresolved--;
+            if(!violation)
+            {
+                for(int j = 1; j < strs.size(); j++)
+                {
+                    if(!sorted[j - 1] && strs[j][i] > strs[j - 1][i])
+                    {
+                        sorted[j - 1] = true;
+                        unSorted--;
+                    }
                 }
             }
         }
-
-        return deletions;
+        return res;
     }
 };
