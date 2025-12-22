@@ -2,7 +2,6 @@ class Solution {
 public:
     int minDeletionSize(vector<string>& strs) {
         int res = 0;
-        int start = 0;
         int violation = false;
         vector<bool> sorted(strs.size() - 1, false);
         int unSorted = strs.size() - 1;
