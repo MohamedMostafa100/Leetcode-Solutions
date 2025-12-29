@@ -29,12 +29,10 @@ private:
         {
             for(int idx = 0; idx < pattern[block].size(); idx++)
             {
-                top += pattern[block][idx];
-                if(solve(bottom, top, pattern, visited, i + 1))
+                if(solve(bottom, top + pattern[block][idx], pattern, visited, i + 1))
                 {
                     return true;
                 }
-                top.pop_back();
             }
         }
         visited.insert(bottom);
