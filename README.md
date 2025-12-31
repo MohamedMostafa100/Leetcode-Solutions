@@ -53,6 +53,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1917-maximum-average-pass-ratio](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [1920-build-array-from-permutation](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1920-build-array-from-permutation) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2023-design-movie-rental-system) |
 | [2054-two-best-non-overlapping-events](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2054-two-best-non-overlapping-events) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [1612-avoid-flood-in-the-city](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2054-two-best-non-overlapping-events](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2054-two-best-non-overlapping-events) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -614,6 +616,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [0794-swim-in-rising-water](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2092-find-all-people-with-secret) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2872-maximum-number-of-k-divisible-components) |
@@ -681,6 +684,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1628-count-submatrices-with-all-ones) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2625-increment-submatrices-by-one](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2625-increment-submatrices-by-one) |
@@ -744,12 +748,14 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [0417-pacific-atlantic-water-flow](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2092-find-all-people-with-secret) |
 | [3863-power-grid-maintenance](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3863-power-grid-maintenance) |
 ## Union Find
 |  |
 | ------- |
 | [0794-swim-in-rising-water](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0794-swim-in-rising-water) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2092-find-all-people-with-secret) |
 | [3863-power-grid-maintenance](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3863-power-grid-maintenance) |
 ## Bitmask
