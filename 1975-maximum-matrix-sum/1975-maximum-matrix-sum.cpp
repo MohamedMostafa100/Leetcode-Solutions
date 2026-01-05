@@ -3,7 +3,7 @@ public:
     long long maxMatrixSum(vector<vector<int>>& matrix) {
         long long sum = 0;
         int smallestAbs = INT_MAX;
-        int countNeg = 0;
+        bool oddNeg = false;
         bool containsZero = false;
         for(int i = 0; i < matrix.size(); i++)
         {
@@ -13,7 +13,7 @@ public:
                 smallestAbs = min(smallestAbs, abs(matrix[i][j]));
                 if(matrix[i][j] < 0)
                 {
-                    countNeg++;
+                    oddNeg = !oddNeg;
                 }
                 else if(matrix[i][j] == 0)
                 {
@@ -21,7 +21,7 @@ public:
                 }
             }
         }
-        if(countNeg % 2 != 0 && !containsZero)
+        if(oddNeg && !containsZero)
         {
             return sum - (2 * smallestAbs);
         }
