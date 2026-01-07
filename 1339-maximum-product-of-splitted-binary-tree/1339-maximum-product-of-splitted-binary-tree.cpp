@@ -14,7 +14,6 @@ public:
     int maxProduct(TreeNode* root) {
         long long res = 0;
         long long sum = calcSum(root);
-        cout << sum;
         solve(root, sum, res);
         return res % 1000000007;
     }
