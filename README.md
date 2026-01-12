@@ -803,4 +803,8 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 |  |
 | ------- |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
