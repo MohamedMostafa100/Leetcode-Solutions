@@ -6,17 +6,12 @@ public:
         {
             for(int j = i + 1; j < bottomLeft.size(); j++)
             {
-                long long intX = 0;
-                long long intY = 0;
-                if(max(bottomLeft[i][0], bottomLeft[j][0]) <= min(topRight[i][0], topRight[j][0]))
+                long long intX = min(topRight[i][0], topRight[j][0]) - max(bottomLeft[i][0], bottomLeft[j][0]);
+                long long intY = min(topRight[i][1], topRight[j][1]) - max(bottomLeft[i][1], bottomLeft[j][1]);
+                if(intX > 0 && intY > 0)
                 {
-                    intX = min(topRight[i][0], topRight[j][0]) - max(bottomLeft[i][0], bottomLeft[j][0]);
+                    res = max(res, min(intX, intY) * 1LL * min(intX, intY));
                 }
-                if(max(bottomLeft[i][1], bottomLeft[j][1]) <= min(topRight[i][1], topRight[j][1]))
-                {
-                    intY = min(topRight[i][1], topRight[j][1]) - max(bottomLeft[i][1], bottomLeft[j][1]);
-                }
-                res = max(res, min(intX, intY) * 1LL * min(intX, intY));
             }
         }
         return res;
