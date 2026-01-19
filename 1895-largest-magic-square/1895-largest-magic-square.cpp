@@ -59,8 +59,8 @@ public:
         }
         for (int side = 2; side <= maxSide; side++) {
             bool flag = false;
-            for (int i = 0; i < grid.size(); i++) {
-                for (int j = 0; j < grid[0].size(); j++) {
+            for (int i = 0; i < n; i++) {
+                for (int j = 0; j < m; j++) {
                     if (checkSquare(grid, i, j, side)) {
                         res = side;
                         flag = true;
