@@ -1,5 +1,7 @@
 class Solution:
     def minimumDifference(self, nums: List[int], k: int) -> int:
+        if k == 1:
+            return 0
         res = float('inf')
         l = 0
         nums = sorted(nums)
