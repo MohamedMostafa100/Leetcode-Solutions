@@ -150,6 +150,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [3625-count-number-of-trapezoids-ii](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3637-trionic-array-i](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3637-trionic-array-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
+| [3640-trionic-array-ii](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3640-trionic-array-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3618-find-the-original-typed-string-ii](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3618-find-the-original-typed-string-ii) |
+| [3640-trionic-array-ii](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3640-trionic-array-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
