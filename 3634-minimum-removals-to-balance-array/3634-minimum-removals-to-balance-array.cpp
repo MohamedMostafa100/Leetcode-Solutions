@@ -7,7 +7,7 @@ public:
         sort(nums.begin(), nums.end());
         for(int r = 0; r < nums.size(); r++)
         {
-            while(nums[l] < (float)((float)nums[r] / k))
+            while((long long)nums[l] * k < nums[r])
             {
                 l++;
             }
