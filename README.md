@@ -157,6 +157,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [3651-minimum-cost-path-with-teleportations](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3668-restore-finishing-order](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3668-restore-finishing-order) |
+| [3719-longest-balanced-subarray-i](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -428,6 +429,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [3625-count-number-of-trapezoids-ii](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3668-restore-finishing-order](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3668-restore-finishing-order) |
 | [3678-design-task-manager](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3678-design-task-manager) |
+| [3719-longest-balanced-subarray-i](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3827-implement-router) |
@@ -553,6 +555,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3719-longest-balanced-subarray-i](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Math
@@ -750,6 +753,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 |  |
 | ------- |
 | [3454-separate-squares-ii](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3454-separate-squares-ii) |
+| [3719-longest-balanced-subarray-i](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3791-fruits-into-baskets-iii) |
@@ -917,6 +921,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 |  |
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
+| [3719-longest-balanced-subarray-i](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 ## Binary Search Tree
 |  |
 | ------- |
