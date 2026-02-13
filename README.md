@@ -247,6 +247,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [3617-find-the-original-typed-string-i](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3618-find-the-original-typed-string-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3713-longest-balanced-substring-i) |
+| [3714-longest-balanced-substring-ii](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3714-longest-balanced-substring-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3797-design-spreadsheet](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -434,6 +435,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [3668-restore-finishing-order](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3668-restore-finishing-order) |
 | [3678-design-task-manager](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3678-design-task-manager) |
 | [3713-longest-balanced-substring-i](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3713-longest-balanced-substring-i) |
+| [3714-longest-balanced-substring-ii](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3721-longest-balanced-subarray-ii) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -561,6 +563,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3714-longest-balanced-substring-ii](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3721-longest-balanced-subarray-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
