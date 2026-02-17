@@ -345,6 +345,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
+| [0401-binary-watch](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0401-binary-watch) |
 | [0679-24-game](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0679-24-game) |
 | [0756-pyramid-transition-matrix](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0756-pyramid-transition-matrix) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2140-longest-subsequence-repeated-k-times) |
@@ -639,6 +640,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [0190-reverse-bits](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0342-power-of-four) |
+| [0401-binary-watch](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0401-binary-watch) |
 | [0756-pyramid-transition-matrix](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0756-pyramid-transition-matrix) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1018-binary-prefix-divisible-by-5) |
