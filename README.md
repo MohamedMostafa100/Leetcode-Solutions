@@ -209,6 +209,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [0165-compare-version-numbers](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0474-ones-and-zeroes](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0474-ones-and-zeroes) |
+| [0696-count-binary-substrings](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0756-pyramid-transition-matrix) |
 | [0944-delete-columns-to-make-sorted](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0944-delete-columns-to-make-sorted) |
@@ -518,6 +519,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [0011-container-with-most-water](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0165-compare-version-numbers](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0165-compare-version-numbers) |
 | [0611-valid-triangle-number](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
+| [0696-count-binary-substrings](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0696-count-binary-substrings) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
