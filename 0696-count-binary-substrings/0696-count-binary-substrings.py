@@ -1,18 +1,14 @@
 class Solution:
     def countBinarySubstrings(self, s: str) -> int:
         res = 0
-        first = 1
-        i = 1
-        while i < len(s) and s[i] == s[i - 1]:
-            first += 1
-            i += 1
-        while i < len(s):
-            second = 1
-            i += 1
-            while i < len(s) and s[i] == s[i - 1]:
+        first = 0
+        second = 1
+        for i in range(1, len(s)):
+            if s[i] == s[i - 1]:
                 second += 1
-                i += 1
-            res += min(first, second)
-            first = second
-        return res
+            else:
+                res += min(first, second)
+                first = second
+                second = 1
+        return res + min(first, second)
 
