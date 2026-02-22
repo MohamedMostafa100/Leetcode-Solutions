@@ -585,6 +585,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [0326-power-of-three](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0342-power-of-four) |
 | [0679-24-game](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0679-24-game) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0826-soup-servings](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0826-soup-servings) |
 | [0830-largest-triangle-area](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0830-largest-triangle-area) |
 | [0840-magic-squares-in-grid](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0840-magic-squares-in-grid) |
@@ -645,6 +646,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [0401-binary-watch](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0693-binary-number-with-alternating-bits) |
 | [0756-pyramid-transition-matrix](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0756-pyramid-transition-matrix) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
