@@ -1,27 +1,29 @@
 class Solution {
 public:
     int countPrimeSetBits(int left, int right) {
-        int count = 0;
-        
-        for (int i = left; i <= right; i++) {
-            int setBits = __builtin_popcount(i);  // C++ built-in to count set bits
-            if (isPrime(setBits)) {
-                count++;
+        int res = 0;
+        for(int i = left; i <= right; i++)
+        {
+            if(countBits(i) == 2 || countBits(i) == 3 || countBits(i) == 5 || countBits(i) == 7 || countBits(i) == 11 || countBits(i) == 13 || countBits(i) == 17 || countBits(i) == 19 || countBits(i) == 23 || countBits(i) == 29)
+            {
+                res++;
             }
         }
-        return count;
+        return res;
     }
-    
 private:
-    bool isPrime(int n) {
-        if (n <= 1) {
-            return false;
-        }
-        for (int i = 2; i * i <= n; i++) {
-            if (n % i == 0) {
-                return false;
+    char countBits(int n)
+    {
+        char bits = 0;
+        int mask = 1;
+        for(int i = 0; i < 32; i++)
+        {
+            if(mask & n)
+            {
+                bits++;
             }
+            mask <<= 1;
         }
-        return true;
+        return bits;
     }
 };
