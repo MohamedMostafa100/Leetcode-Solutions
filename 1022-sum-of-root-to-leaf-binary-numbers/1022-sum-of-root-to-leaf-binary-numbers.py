@@ -6,16 +6,16 @@
 #         self.right = right
 class Solution:
     def sumRootToLeaf(self, root: Optional[TreeNode]) -> int:
-        paths = []
+        res = 0
         def solve(root: Optional[TreeNode], tot: int) -> None:
+            nonlocal res
             if not root:
                 return
             if (not root.left) and (not root.right):
-                paths.append(tot * 2 + root.val)
+                res += (tot * 2 + root.val)
                 return
             solve(root.left, tot * 2 + root.val)
             solve(root.right, tot * 2 + root.val)
         solve(root, 0)
-        print(paths)
-        return sum(paths)
+        return res
             
