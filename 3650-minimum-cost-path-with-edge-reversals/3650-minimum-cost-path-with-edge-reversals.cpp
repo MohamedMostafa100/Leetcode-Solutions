@@ -1,40 +1,40 @@
 class Solution {
-    using PII = pair<int, int>;
-
 public:
     int minCost(int n, vector<vector<int>>& edges) {
-        vector<vector<PII>> g(n);
-        for (auto& e : edges) {
-            int x = e[0], y = e[1], w = e[2];
-            g[x].emplace_back(y, w);
-            g[y].emplace_back(x, 2 * w);
+        vector<vector<pair<int, int>>> graph(n);
+        for(int i = 0; i < edges.size(); i++)
+        {
+            graph[edges[i][0]].push_back({edges[i][1], edges[i][2]});
+            graph[edges[i][1]].push_back({edges[i][0], edges[i][2] * 2});
         }
-
-        vector<int> d(n, INT_MAX);
-        vector<bool> v(n, false);
-        priority_queue<PII, vector<PII>, greater<PII>> q;
-        d[0] = 0;
-        q.emplace(0, 0);
-
-        while (!q.empty()) {
-            int x = q.top().second;
-            q.pop();
-            if (x == n - 1) {
-                return d[x];
-            }
-            // only the first time unloading requires relaxing other points
-            if (v[x]) {
+        return dijk(n, graph);
+    }
+private:
+    int dijk(int n, vector<vector<pair<int, int>>>& graph)
+    {
+        vector<int> res(n, -1);
+        priority_queue<pair<int, int>, vector<pair<int, int>>, greater<pair<int, int>>> pq;
+        unordered_set<int> visited;
+        pq.push({0, 0});
+        while(!pq.empty())
+        {
+            int dest = pq.top().second;
+            int cost = pq.top().first;
+            pq.pop();
+            if(visited.count(dest))
+            {
                 continue;
             }
-            v[x] = 1;
-
-            for (auto& [y, w] : g[x]) {
-                if (d[x] + w < d[y]) {
-                    d[y] = d[x] + w;
-                    q.emplace(d[y], y);
+            visited.insert(dest);
+            for(int i = 0; i < graph[dest].size(); i++)
+            {
+                if(res[graph[dest][i].first] == -1 || cost + graph[dest][i].second < res[graph[dest][i].first])
+                {
+                    res[graph[dest][i].first] = cost + graph[dest][i].second;
+                    pq.push({cost + graph[dest][i].second, graph[dest][i].first});
                 }
             }
         }
-        return -1;
+        return res[n - 1];
     }
 };
