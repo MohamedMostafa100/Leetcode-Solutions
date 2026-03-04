@@ -209,6 +209,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0165-compare-version-numbers](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0166-fraction-to-recurring-decimal) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0085-maximal-rectangle](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0120-triangle) |
@@ -355,6 +357,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
 | [0401-binary-watch](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0401-binary-watch) |
 | [0679-24-game](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0679-24-game) |
