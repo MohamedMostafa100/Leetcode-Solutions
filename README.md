@@ -9,6 +9,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [0011-container-with-most-water](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0036-valid-sudoku](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
+| [0056-merge-intervals](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0085-maximal-rectangle](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
@@ -463,6 +464,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0594-longest-harmonious-subsequence](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0759-set-intersection-size-at-least-two](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0759-set-intersection-size-at-least-two) |
