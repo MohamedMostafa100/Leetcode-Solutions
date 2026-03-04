@@ -400,6 +400,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | ------- |
 | [0036-valid-sudoku](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
+| [0146-lru-cache](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0146-lru-cache) |
 | [0166-fraction-to-recurring-decimal](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0594-longest-harmonious-subsequence](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0756-pyramid-transition-matrix](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0756-pyramid-transition-matrix) |
@@ -726,6 +727,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0146-lru-cache) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2023-design-movie-rental-system) |
 | [2169-simple-bank-system](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2169-simple-bank-system) |
@@ -737,6 +739,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
+| [0146-lru-cache](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0146-lru-cache) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -955,6 +958,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0146-lru-cache) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Graph Theory
