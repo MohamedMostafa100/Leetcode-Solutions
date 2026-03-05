@@ -14,6 +14,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [0085-maximal-rectangle](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0200-number-of-islands](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0407-trapping-rain-water-ii](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [0085-maximal-rectangle](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0474-ones-and-zeroes](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0474-ones-and-zeroes) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0799-champagne-tower](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0799-champagne-tower) |
