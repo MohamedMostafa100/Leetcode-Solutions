@@ -760,6 +760,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [0094-binary-tree-inorder-traversal](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0200-number-of-islands](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0207-course-schedule) |
 | [0417-pacific-atlantic-water-flow](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -931,6 +932,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0207-course-schedule) |
 | [0407-trapping-rain-water-ii](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0794-swim-in-rising-water) |
@@ -979,6 +981,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0207-course-schedule) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3650-minimum-cost-path-with-edge-reversals) |
@@ -1007,4 +1010,8 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0200-number-of-islands) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
