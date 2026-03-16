@@ -68,6 +68,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [1834-minimum-number-of-people-to-teach](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1895-largest-magic-square) |
 | [1917-maximum-average-pass-ratio](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [1920-build-array-from-permutation](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1920-build-array-from-permutation) |
@@ -503,6 +504,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2054-two-best-non-overlapping-events](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2054-two-best-non-overlapping-events) |
 | [2092-find-all-people-with-secret](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2092-find-all-people-with-secret) |
@@ -536,6 +538,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [0794-swim-in-rising-water](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1612-avoid-flood-in-the-city](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1612-avoid-flood-in-the-city) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1917-maximum-average-pass-ratio](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [2023-design-movie-rental-system](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2023-design-movie-rental-system) |
 | [2054-two-best-non-overlapping-events](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2054-two-best-non-overlapping-events) |
@@ -594,6 +597,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | ------- |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1590-make-sum-divisible-by-p](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1590-make-sum-divisible-by-p) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1895-largest-magic-square) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -649,6 +653,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [1642-water-bottles](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1642-water-bottles) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1925-count-square-sum-triples](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1925-count-square-sum-triples) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
@@ -886,6 +891,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1628-count-submatrices-with-all-ones](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1628-count-submatrices-with-all-ones) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1895-largest-magic-square) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1975-maximum-matrix-sum) |
