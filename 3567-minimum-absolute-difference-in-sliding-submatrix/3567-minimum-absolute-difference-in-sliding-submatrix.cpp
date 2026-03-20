@@ -7,9 +7,9 @@ public:
         for (int i = 0; i + k <= m; i++) {
             for (int j = 0; j + k <= n; j++) {
                 vector<int> subGrid;
-                for (int x = i; x < i + k; x++) {
-                    for (int y = j; y < j + k; y++) {
-                        subGrid.push_back(grid[x][y]);
+                for (int r = i; r < i + k; r++) {
+                    for (int c = j; c < j + k; c++) {
+                        subGrid.push_back(grid[r][c]);
                     }
                 }
                 int kmin = INT_MAX;
