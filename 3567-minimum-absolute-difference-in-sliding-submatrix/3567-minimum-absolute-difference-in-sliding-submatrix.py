@@ -9,7 +9,6 @@ class Solution:
                 for r in range(i, i + k):
                     for c in range(j, j + k):
                         subGrid.append(grid[r][c])
-                print(subGrid)
                 subGrid.sort()
                 kMin = float('inf')
                 for t in range(1, len(subGrid)):
