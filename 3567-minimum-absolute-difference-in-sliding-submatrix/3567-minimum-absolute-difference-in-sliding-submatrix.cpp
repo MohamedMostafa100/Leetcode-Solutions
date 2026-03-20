@@ -12,16 +12,16 @@ public:
                         subGrid.push_back(grid[r][c]);
                     }
                 }
-                int kmin = INT_MAX;
+                int kMin = INT_MAX;
                 sort(subGrid.begin(), subGrid.end());
                 for (int t = 1; t < subGrid.size(); t++) {
                     if (subGrid[t] == subGrid[t - 1]) {
                         continue;
                     }
-                    kmin = min(kmin, subGrid[t] - subGrid[t - 1]);
+                    kMin = min(kMin, subGrid[t] - subGrid[t - 1]);
                 }
-                if (kmin != INT_MAX) {
-                    res[i][j] = kmin;
+                if (kMin != INT_MAX) {
+                    res[i][j] = kMin;
                 }
             }
         }
