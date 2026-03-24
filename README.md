@@ -113,6 +113,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2689-rearranging-fruits](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2689-rearranging-fruits) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [2906-construct-product-matrix](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2906-construct-product-matrix) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -617,6 +618,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [2529-range-product-queries-of-powers](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2529-range-product-queries-of-powers) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2625-increment-submatrices-by-one) |
+| [2906-construct-product-matrix](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
@@ -915,6 +917,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2625-increment-submatrices-by-one](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2625-increment-submatrices-by-one) |
+| [2906-construct-product-matrix](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
