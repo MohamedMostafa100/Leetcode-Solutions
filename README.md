@@ -115,6 +115,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2906-construct-product-matrix](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2906-construct-product-matrix) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
@@ -689,6 +690,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2769-find-the-maximum-achievable-number](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2769-find-the-maximum-achievable-number) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -776,6 +778,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [2402-meeting-rooms-iii](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2402-meeting-rooms-iii) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2479-meeting-rooms-iii](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2479-meeting-rooms-iii) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3336-water-bottles-ii](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3336-water-bottles-ii) |
 | [3379-transformed-array](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3379-transformed-array) |
 | [3433-count-mentions-per-user](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3433-count-mentions-per-user) |
@@ -925,6 +928,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2625-increment-submatrices-by-one](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2625-increment-submatrices-by-one) |
 | [2906-construct-product-matrix](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2906-construct-product-matrix) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
