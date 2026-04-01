@@ -112,6 +112,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [2625-increment-submatrices-by-one](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2625-increment-submatrices-by-one) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2689-rearranging-fruits](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2689-rearranging-fruits) |
+| [2751-robot-collisions](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2751-robot-collisions) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2906-construct-product-matrix](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2906-construct-product-matrix) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
@@ -537,6 +538,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [2479-meeting-rooms-iii](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2689-rearranging-fruits](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2689-rearranging-fruits) |
+| [2751-robot-collisions](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2751-robot-collisions) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2887-sort-vowels-in-a-string](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2887-sort-vowels-in-a-string) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
@@ -784,6 +786,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [2402-meeting-rooms-iii](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2402-meeting-rooms-iii) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2479-meeting-rooms-iii](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2479-meeting-rooms-iii) |
+| [2751-robot-collisions](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3336-water-bottles-ii](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3336-water-bottles-ii) |
 | [3379-transformed-array](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3379-transformed-array) |
@@ -861,6 +864,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [1944-number-of-visible-people-in-a-queue](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2211-count-collisions-on-a-road](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2211-count-collisions-on-a-road) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2751-robot-collisions](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2751-robot-collisions) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Tree
 |  |
