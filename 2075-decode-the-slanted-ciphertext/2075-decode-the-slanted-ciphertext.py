@@ -2,8 +2,6 @@ class Solution:
     def decodeCiphertext(self, encodedText: str, rows: int) -> str:
         res = ""
         cols = len(encodedText) // rows
-        if cols == 0:
-            return ""
         for idx in range(cols):
             i = 0
             j = idx
