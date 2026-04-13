@@ -1,48 +1,36 @@
 class Solution {
 public:
-    int getDistance(int p, int q) {
-        int x1 = p / 6, y1 = p % 6;
-        int x2 = q / 6, y2 = q % 6;
-        return abs(x1 - x2) + abs(y1 - y2);
-    }
-
     int minimumDistance(string word) {
-        int n = word.size();
-        int dp[n][26][26];
-        for (int i = 0; i < n; ++i) {
-            for (int j = 0; j < 26; ++j) {
-                fill(dp[i][j], dp[i][j] + 26, INT_MAX >> 1);
-            }
+        vector<vector<vector<int>>> dp(27, vector<vector<int>>(27, vector<int>(word.size(), -1)));
+        return solve(word, dp, 0, 0, 0);
+    }
+private:
+    int getDist(char x, char y)
+    {
+        x--;
+        y--;
+        if(x == -1)
+        {
+            return 0;
         }
-        for (int i = 0; i < 26; ++i) {
-            dp[0][i][word[0] - 'A'] = dp[0][word[0] - 'A'][i] = 0;
+        int xX = x % 6;
+        int xY = x / 6;
+        int yX = y % 6;
+        int yY = y / 6;
+        return abs(xX - yX) + abs(xY - yY);
+    }
+    int solve(string& word, vector<vector<vector<int>>>& dp, int i, int j, int k)
+    {
+        if(k == word.size())
+        {
+            return 0;
         }
-
-        for (int i = 1; i < n; ++i) {
-            int cur = word[i] - 'A';
-            int prev = word[i - 1] - 'A';
-            int d = getDistance(prev, cur);
-            for (int j = 0; j < 26; ++j) {
-                dp[i][cur][j] = min(dp[i][cur][j], dp[i - 1][prev][j] + d);
-                dp[i][j][cur] = min(dp[i][j][cur], dp[i - 1][j][prev] + d);
-                if (prev == j) {
-                    for (int k = 0; k < 26; ++k) {
-                        int d0 = getDistance(k, cur);
-                        dp[i][cur][j] =
-                            min(dp[i][cur][j], dp[i - 1][k][j] + d0);
-                        dp[i][j][cur] =
-                            min(dp[i][j][cur], dp[i - 1][j][k] + d0);
-                    }
-                }
-            }
+        if(dp[i][j][k] == -1)
+        {
+            dp[i][j][k] = INT_MAX;
+            dp[i][j][k] = min(dp[i][j][k], solve(word, dp, word[k] - 'A' + 1, j, k + 1) + getDist(i, word[k] - 'A' + 1));
+            dp[i][j][k] = min(dp[i][j][k], solve(word, dp, i, word[k] - 'A' + 1, k + 1) + getDist(j, word[k] - 'A' + 1));
         }
-
-        int ans = INT_MAX >> 1;
-        for (int i = 0; i < 26; ++i) {
-            for (int j = 0; j < 26; ++j) {
-                ans = min(ans, dp[n - 1][i][j]);
-            }
-        }
-        return ans;
+        return dp[i][j][k];
     }
 };
