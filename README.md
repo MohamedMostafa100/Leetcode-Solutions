@@ -105,6 +105,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [2402-meeting-rooms-iii](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2402-meeting-rooms-iii) |
 | [2429-design-a-food-rating-system](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2429-design-a-food-rating-system) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2463-minimum-total-distance-traveled](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [2479-meeting-rooms-iii](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [2463-minimum-total-distance-traveled](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
@@ -550,6 +552,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [2274-keep-multiplying-found-values-by-two](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2402-meeting-rooms-iii](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2402-meeting-rooms-iii) |
+| [2463-minimum-total-distance-traveled](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [2479-meeting-rooms-iii](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2689-rearranging-fruits](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2689-rearranging-fruits) |
