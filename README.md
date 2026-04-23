@@ -90,6 +90,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [2078-two-furthest-houses-with-different-colors](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [2121-intervals-between-identical-elements](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2121-intervals-between-identical-elements) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2169-simple-bank-system](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2169-simple-bank-system) |
@@ -498,6 +499,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2023-design-movie-rental-system) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2079-delete-duplicate-folders-in-system) |
+| [2121-intervals-between-identical-elements](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2121-intervals-between-identical-elements) |
 | [2169-simple-bank-system](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -662,6 +664,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1895-largest-magic-square) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1930-unique-length-3-palindromic-subsequences) |
+| [2121-intervals-between-identical-elements](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2121-intervals-between-identical-elements) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2529-range-product-queries-of-powers](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2529-range-product-queries-of-powers) |
