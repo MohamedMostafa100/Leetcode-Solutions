@@ -16,6 +16,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [0120-triangle](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0200-number-of-islands](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0200-number-of-islands) |
+| [0396-rotate-function](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0396-rotate-function) |
 | [0407-trapping-rain-water-ii](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0474-ones-and-zeroes](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0474-ones-and-zeroes) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [0118-pascals-triangle](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0396-rotate-function](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0396-rotate-function) |
 | [0474-ones-and-zeroes](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0474-ones-and-zeroes) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0799-champagne-tower](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0799-champagne-tower) |
@@ -717,6 +719,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [0231-power-of-two](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0342-power-of-four) |
+| [0396-rotate-function](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0396-rotate-function) |
 | [0679-24-game](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0679-24-game) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0826-soup-servings](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0826-soup-servings) |
