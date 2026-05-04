@@ -9,6 +9,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [0011-container-with-most-water](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0036-valid-sudoku](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0085-maximal-rectangle](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
@@ -714,6 +715,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | ------- |
 | [0002-add-two-numbers](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0007-reverse-integer) |
+| [0048-rotate-image](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0166-fraction-to-recurring-decimal](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0166-fraction-to-recurring-decimal) |
@@ -985,6 +987,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | ------- |
 | [0036-valid-sudoku](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0085-maximal-rectangle](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0407-trapping-rain-water-ii](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0407-trapping-rain-water-ii) |
