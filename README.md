@@ -641,6 +641,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
+| [0061-rotate-list](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0061-rotate-list) |
 | [0165-compare-version-numbers](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0165-compare-version-numbers) |
 | [0611-valid-triangle-number](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0696-count-binary-substrings](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0696-count-binary-substrings) |
@@ -885,6 +886,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
+| [0061-rotate-list](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0061-rotate-list) |
 | [0146-lru-cache](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0146-lru-cache) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
