@@ -267,6 +267,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [0696-count-binary-substrings](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0756-pyramid-transition-matrix) |
+| [0796-rotate-string](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0796-rotate-string) |
 | [0944-delete-columns-to-make-sorted](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -1193,5 +1194,6 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 ## String Matching
 |  |
 | ------- |
+| [0796-rotate-string](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0796-rotate-string) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3474-lexicographically-smallest-generated-string) |
 <!---LeetCode Topics End-->
