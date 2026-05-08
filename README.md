@@ -191,6 +191,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3625-count-number-of-trapezoids-ii) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3634-minimum-removals-to-balance-array](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3637-trionic-array-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
@@ -548,6 +549,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3625-count-number-of-trapezoids-ii) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3668-restore-finishing-order](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3668-restore-finishing-order) |
 | [3678-design-task-manager](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3678-design-task-manager) |
 | [3713-longest-balanced-substring-i](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3713-longest-balanced-substring-i) |
@@ -784,6 +786,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3623-count-number-of-trapezoids-i](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3625-count-number-of-trapezoids-ii) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -1091,6 +1094,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | ------- |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Combinatorics
 |  |
@@ -1115,6 +1119,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2092-find-all-people-with-secret) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3863-power-grid-maintenance](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3863-power-grid-maintenance) |
 ## Union Find
 |  |
