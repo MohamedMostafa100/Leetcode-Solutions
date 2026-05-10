@@ -131,6 +131,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [2689-rearranging-fruits](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2689-rearranging-fruits) |
 | [2751-robot-collisions](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2751-robot-collisions) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2906-construct-product-matrix](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2906-construct-product-matrix) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -371,6 +372,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2463-minimum-total-distance-traveled](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2463-minimum-total-distance-traveled) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
