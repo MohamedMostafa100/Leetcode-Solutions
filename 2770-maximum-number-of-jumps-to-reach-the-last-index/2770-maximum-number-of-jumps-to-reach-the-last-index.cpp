@@ -1,23 +1,18 @@
 class Solution {
 public:
     int maximumJumps(vector<int>& nums, int target) {
-        vector<pair<int, bool>> dp(nums.size(), {0, false});
-        dp[nums.size() - 1] = {0, true};
+        vector<int> dp(nums.size(), -1);
+        dp[nums.size() - 1] = 0;
         for(int i = nums.size() - 2; i >= 0; i--)
         {
             for(int j = i + 1; j < nums.size(); j++)
             {
-                if(nums[j] - nums[i] <= target && nums[j] - nums[i] >= -target && dp[j].second)
+                if(nums[j] - nums[i] <= target && nums[j] - nums[i] >= -target && dp[j] != -1)
                 {
-                    dp[i].first = max(dp[i].first, dp[j].first + 1);
-                    dp[i].second = true;
+                    dp[i] = max(dp[i], dp[j] + 1);
                 }
             }
         }
-        if(dp[0].first == 0)
-        {
-            return -1;
-        }
-        return dp[0].first;
+        return dp[0];
     }
 };
