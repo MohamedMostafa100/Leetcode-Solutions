@@ -1,46 +1,28 @@
 class Solution:
     def minJumps(self, arr: List[int]) -> int:
+        res = 0
         n = len(arr)
-        if n <= 1:
-            return 0
-
-        graph = {}
+        idxs = {}
+        visited = [False for _ in range(n)]
+        bfs = deque()
         for i in range(n):
-            if arr[i] in graph:
-                graph[arr[i]].append(i)
+            if arr[i] in idxs:
+                idxs[arr[i]].append(i)
             else:
-                graph[arr[i]] = [i]
-
-        curs = [0]  # store current layers
-        visited = {0}
-        step = 0
-
-        # when current layer exists
-        while curs:
-            nex = []
-
-            # iterate the layer
-            for node in curs:
-                # check if reached end
-                if node == n-1:
-                    return step
-
-                # check same value
-                for child in graph[arr[node]]:
-                    if child not in visited:
-                        visited.add(child)
-                        nex.append(child)
-
-                # clear the list to prevent redundant search
-                graph[arr[node]].clear()
-
-                # check neighbors
-                for child in [node-1, node+1]:
-                    if 0 <= child < len(arr) and child not in visited:
-                        visited.add(child)
-                        nex.append(child)
-
-            curs = nex
-            step += 1
-
-        return -1
+                idxs[arr[i]] = [i]
+        bfs.append((0, 0))
+        while len(bfs) > 0:
+            node, dist = bfs.popleft()
+            if node == n - 1:
+                res = dist
+                break
+            visited[node] = True
+            for nextNode in idxs[arr[node]]:
+                if not visited[nextNode]:
+                    bfs.append((nextNode, dist + 1))
+            idxs[arr[node]].clear()
+            if node > 0 and not visited[node - 1]:
+                bfs.append((node - 1, dist + 1))
+            if node < n - 1 and not visited[node + 1]:
+                bfs.append((node + 1, dist + 1))
+        return res
