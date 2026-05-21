@@ -3,12 +3,14 @@ class Solution:
         res = 0
         pres = set()
         for a in arr1:
-            num = str(a)
-            for i in range(len(num)):
-                pres.add(num[:i + 1])
+            while a not in pres and a > 0:
+                pres.add(a)
+                a //= 10
+        print(pres)
         for b in arr2:
-            num = str(b)
-            for i in range(len(num)):
-                if num[:i + 1] in pres:
-                    res = max(res, i + 1)
+            while b > 0:
+                if b in pres:
+                    res = max(res, len(str(b)))
+                    break
+                b //= 10
         return res
