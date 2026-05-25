@@ -312,6 +312,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1871-jump-game-vii](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1980-find-unique-binary-string](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1980-find-unique-binary-string) |
@@ -383,6 +384,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1871-jump-game-vii](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2054-two-best-non-overlapping-events](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2054-two-best-non-overlapping-events) |
@@ -700,6 +702,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [0940-fruit-into-baskets](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0940-fruit-into-baskets) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1813-maximum-erasure-value](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1813-maximum-erasure-value) |
+| [1871-jump-game-vii](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -721,6 +724,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1590-make-sum-divisible-by-p](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1590-make-sum-divisible-by-p) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1871-jump-game-vii](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1871-jump-game-vii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1895-largest-magic-square) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1930-unique-length-3-palindromic-subsequences) |
