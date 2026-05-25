@@ -1198,6 +1198,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [1045-customers-who-bought-all-products](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1045-customers-who-bought-all-products) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1193-monthly-transactions-i](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1193-monthly-transactions-i) |
+| [1341-movie-rating](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1341-movie-rating) |
 ## Line Sweep
 |  |
 | ------- |
