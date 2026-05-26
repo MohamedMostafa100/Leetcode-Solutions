@@ -338,6 +338,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3110-score-of-a-string](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3110-score-of-a-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3396-valid-word](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3396-valid-word) |
 | [3462-vowels-game-in-a-string](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3462-vowels-game-in-a-string) |
@@ -567,6 +568,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
