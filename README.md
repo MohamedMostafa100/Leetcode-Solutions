@@ -1211,6 +1211,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [0175-combine-two-tables](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0175-combine-two-tables) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0584-find-customer-referee](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0584-find-customer-referee) |
+| [0585-investments-in-2016](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0585-investments-in-2016) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0596-classes-with-at-least-5-students](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0596-classes-with-at-least-5-students) |
 | [0608-tree-node](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0608-tree-node) |
