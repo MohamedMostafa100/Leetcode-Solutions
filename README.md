@@ -63,6 +63,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
@@ -619,6 +620,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
