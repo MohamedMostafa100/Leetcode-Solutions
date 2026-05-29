@@ -740,6 +740,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [2121-intervals-between-identical-elements](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2121-intervals-between-identical-elements) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2483-minimum-penalty-for-a-shop) |
+| [2485-find-the-pivot-integer](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2485-find-the-pivot-integer) |
 | [2529-range-product-queries-of-powers](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2529-range-product-queries-of-powers) |
 | [2615-sum-of-distances](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2615-sum-of-distances) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2618-maximize-the-minimum-powered-city) |
@@ -812,6 +813,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2485-find-the-pivot-integer](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2485-find-the-pivot-integer) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2769-find-the-maximum-achievable-number](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2769-find-the-maximum-achievable-number) |
