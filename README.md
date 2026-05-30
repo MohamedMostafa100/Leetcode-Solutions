@@ -823,6 +823,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [2324-find-triangular-sum-of-an-array](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2485-find-the-pivot-integer](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2485-find-the-pivot-integer) |
+| [2523-closest-prime-numbers-in-range](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2523-closest-prime-numbers-in-range) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2769-find-the-maximum-achievable-number](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2769-find-the-maximum-achievable-number) |
@@ -1162,6 +1163,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 |  |
 | ------- |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2523-closest-prime-numbers-in-range](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2523-closest-prime-numbers-in-range) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
