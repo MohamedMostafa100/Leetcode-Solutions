@@ -776,6 +776,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [0007-reverse-integer](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0048-rotate-image) |
+| [0060-permutation-sequence](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0166-fraction-to-recurring-decimal](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0166-fraction-to-recurring-decimal) |
@@ -888,6 +889,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
+| [0060-permutation-sequence](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0060-permutation-sequence) |
 | [0231-power-of-two](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0342-power-of-four) |
