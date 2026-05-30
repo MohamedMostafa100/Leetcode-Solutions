@@ -393,6 +393,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [1871-jump-game-vii](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
@@ -808,6 +809,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [1642-water-bottles](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1642-water-bottles) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1925-count-square-sum-triples](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1925-count-square-sum-triples) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -1165,6 +1167,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 ## Combinatorics
 |  |
 | ------- |
+| [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
