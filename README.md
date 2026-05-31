@@ -69,6 +69,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1441-build-an-array-with-stack-operations](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -1030,6 +1031,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [0150-evaluate-reverse-polish-notation](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0636-exclusive-time-of-functions](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0636-exclusive-time-of-functions) |
 | [1441-build-an-array-with-stack-operations](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1441-build-an-array-with-stack-operations) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1628-count-submatrices-with-all-ones](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -1144,6 +1146,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1628-count-submatrices-with-all-ones](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
