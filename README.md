@@ -65,6 +65,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1441-build-an-array-with-stack-operations](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -922,6 +923,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [0657-robot-return-to-origin](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0657-robot-return-to-origin) |
 | [0874-walking-robot-simulation](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0874-walking-robot-simulation) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1441-build-an-array-with-stack-operations](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1642-water-bottles](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1642-water-bottles) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
@@ -1022,6 +1024,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | ------- |
 | [0085-maximal-rectangle](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [1441-build-an-array-with-stack-operations](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1628-count-submatrices-with-all-ones](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
