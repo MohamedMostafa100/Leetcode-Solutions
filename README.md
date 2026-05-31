@@ -13,6 +13,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [0048-rotate-image](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0066-plus-one) |
+| [0084-largest-rectangle-in-histogram](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0120-triangle) |
@@ -1027,6 +1028,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -1147,6 +1149,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0739-daily-temperatures](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
