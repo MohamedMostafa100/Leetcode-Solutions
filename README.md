@@ -21,6 +21,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0164-maximum-gap](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0164-maximum-gap) |
 | [0200-number-of-islands](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0396-rotate-function](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0396-rotate-function) |
 | [0407-trapping-rain-water-ii](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
@@ -509,6 +510,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0900-reordered-power-of-2](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0900-reordered-power-of-2) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1925-count-square-sum-triples](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1925-count-square-sum-triples) |
@@ -787,6 +789,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [0067-add-binary](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0166-fraction-to-recurring-decimal](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0172-factorial-trailing-zeroes](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0172-factorial-trailing-zeroes) |
+| [0204-count-primes](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0342-power-of-four) |
@@ -1165,6 +1168,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2523-closest-prime-numbers-in-range](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2523-closest-prime-numbers-in-range) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
