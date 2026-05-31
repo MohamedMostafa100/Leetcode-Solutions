@@ -35,6 +35,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [0645-set-mismatch](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [0679-24-game](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0679-24-game) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0717-1-bit-and-2-bit-characters) |
+| [0739-daily-temperatures](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0759-set-intersection-size-at-least-two](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0759-set-intersection-size-at-least-two) |
 | [0794-swim-in-rising-water](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0794-swim-in-rising-water) |
@@ -1030,6 +1031,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [0094-binary-tree-inorder-traversal](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0636-exclusive-time-of-functions](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0636-exclusive-time-of-functions) |
+| [0739-daily-temperatures](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [1441-build-an-array-with-stack-operations](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1628-count-submatrices-with-all-ones](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1628-count-submatrices-with-all-ones) |
@@ -1146,6 +1148,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
+| [0739-daily-temperatures](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1628-count-submatrices-with-all-ones](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
