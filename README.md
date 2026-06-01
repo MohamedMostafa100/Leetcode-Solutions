@@ -89,6 +89,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -936,6 +937,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1642-water-bottles](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1642-water-bottles) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1914-cyclically-rotating-a-grid](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1914-cyclically-rotating-a-grid) |
 | [1920-build-array-from-permutation](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
@@ -1042,6 +1044,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [1628-count-submatrices-with-all-ones](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2211-count-collisions-on-a-road](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2211-count-collisions-on-a-road) |
@@ -1184,6 +1187,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 ## Queue
 |  |
 | ------- |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
