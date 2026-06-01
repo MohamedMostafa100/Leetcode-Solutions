@@ -116,6 +116,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [2023-design-movie-rental-system](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2023-design-movie-rental-system) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2054-two-best-non-overlapping-events](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2054-two-best-non-overlapping-events) |
+| [2073-time-needed-to-buy-tickets](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -942,6 +943,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [1920-build-array-from-permutation](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2069-walking-robot-simulation-ii](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2069-walking-robot-simulation-ii) |
+| [2073-time-needed-to-buy-tickets](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2169-simple-bank-system) |
@@ -1188,6 +1190,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 |  |
 | ------- |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2073-time-needed-to-buy-tickets](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
