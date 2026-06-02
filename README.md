@@ -978,6 +978,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0146-lru-cache) |
+| [0232-implement-queue-using-stacks](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [1622-fancy-sequence](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1622-fancy-sequence) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2023-design-movie-rental-system) |
@@ -1044,6 +1045,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [0085-maximal-rectangle](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0232-implement-queue-using-stacks](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0636-exclusive-time-of-functions](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0636-exclusive-time-of-functions) |
 | [0739-daily-temperatures](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [1441-build-an-array-with-stack-operations](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1441-build-an-array-with-stack-operations) |
@@ -1194,6 +1196,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2408-number-of-people-aware-of-a-secret) |
