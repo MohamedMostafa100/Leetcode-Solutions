@@ -53,6 +53,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [1006-vowel-spellchecker](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1046-last-stone-weight](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1046-last-stone-weight) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1200-minimum-absolute-difference](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -695,6 +696,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0794-swim-in-rising-water](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0794-swim-in-rising-water) |
+| [1046-last-stone-weight](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1046-last-stone-weight) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1612-avoid-flood-in-the-city](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
