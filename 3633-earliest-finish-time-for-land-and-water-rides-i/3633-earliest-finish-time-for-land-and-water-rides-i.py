@@ -11,4 +11,4 @@ class Solution:
             waterMin = min(waterMin, waterStartTime[i] + waterDuration[i])
         for i in range(len(landStartTime)):
             res = min(res, max(waterMin, landStartTime[i]) + landDuration[i])
-        return res;
+        return res
