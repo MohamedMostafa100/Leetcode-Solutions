@@ -24,6 +24,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [0164-maximum-gap](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0164-maximum-gap) |
 | [0200-number-of-islands](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0204-count-primes) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0396-rotate-function](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0396-rotate-function) |
 | [0407-trapping-rain-water-ii](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
@@ -694,6 +695,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0407-trapping-rain-water-ii](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0794-swim-in-rising-water](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [1046-last-stone-weight](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1046-last-stone-weight) |
