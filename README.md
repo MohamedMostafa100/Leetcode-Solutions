@@ -313,6 +313,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [0165-compare-version-numbers](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0474-ones-and-zeroes](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0474-ones-and-zeroes) |
+| [0482-license-key-formatting](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0482-license-key-formatting) |
 | [0520-detect-capital](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0520-detect-capital) |
 | [0657-robot-return-to-origin](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0696-count-binary-substrings) |
