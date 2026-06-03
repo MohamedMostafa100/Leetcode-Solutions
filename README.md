@@ -317,6 +317,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [0482-license-key-formatting](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0482-license-key-formatting) |
 | [0520-detect-capital](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0520-detect-capital) |
 | [0657-robot-return-to-origin](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0657-robot-return-to-origin) |
+| [0686-repeated-string-match](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0686-repeated-string-match) |
 | [0696-count-binary-substrings](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0756-pyramid-transition-matrix) |
@@ -1359,6 +1360,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0459-repeated-substring-pattern) |
+| [0686-repeated-string-match](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0796-rotate-string) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Bucket Sort
