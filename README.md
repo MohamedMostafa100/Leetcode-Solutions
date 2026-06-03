@@ -312,6 +312,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [0067-add-binary](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0165-compare-version-numbers](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0166-fraction-to-recurring-decimal) |
+| [0459-repeated-substring-pattern](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0459-repeated-substring-pattern) |
 | [0474-ones-and-zeroes](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0474-ones-and-zeroes) |
 | [0482-license-key-formatting](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0482-license-key-formatting) |
 | [0520-detect-capital](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0520-detect-capital) |
@@ -1357,6 +1358,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 ## String Matching
 |  |
 | ------- |
+| [0459-repeated-substring-pattern](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0459-repeated-substring-pattern) |
 | [0796-rotate-string](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0796-rotate-string) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Bucket Sort
