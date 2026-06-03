@@ -66,6 +66,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1354-construct-target-array-with-multiple-sums](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1390-four-divisors](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1390-four-divisors) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -703,6 +704,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [0407-trapping-rain-water-ii](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0794-swim-in-rising-water](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [1046-last-stone-weight](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1046-last-stone-weight) |
+| [1354-construct-target-array-with-multiple-sums](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1612-avoid-flood-in-the-city](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
