@@ -565,6 +565,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [0001-two-sum](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
+| [0138-copy-list-with-random-pointer](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0146-lru-cache) |
 | [0166-fraction-to-recurring-decimal](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0594-longest-harmonious-subsequence](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
@@ -1015,6 +1016,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [0002-add-two-numbers](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0061-rotate-list](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0146-lru-cache) |
 | [0328-odd-even-linked-list](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0328-odd-even-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
