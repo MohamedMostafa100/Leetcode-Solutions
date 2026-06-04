@@ -11,6 +11,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [0033-search-in-rotated-sorted-array](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0066-plus-one) |
@@ -565,6 +566,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [0001-two-sum](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0041-first-missing-positive) |
 | [0138-copy-list-with-random-pointer](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0146-lru-cache) |
 | [0166-fraction-to-recurring-decimal](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0166-fraction-to-recurring-decimal) |
