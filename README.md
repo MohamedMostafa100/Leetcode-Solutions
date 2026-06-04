@@ -6,6 +6,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
@@ -561,6 +562,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
 | [0146-lru-cache](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0146-lru-cache) |
