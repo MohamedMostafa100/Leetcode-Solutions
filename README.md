@@ -1013,6 +1013,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [0002-add-two-numbers](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0061-rotate-list](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0061-rotate-list) |
 | [0146-lru-cache](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0146-lru-cache) |
+| [0328-odd-even-linked-list](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0328-odd-even-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
