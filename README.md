@@ -107,6 +107,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [1895-largest-magic-square](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1895-largest-magic-square) |
 | [1914-cyclically-rotating-a-grid](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1914-cyclically-rotating-a-grid) |
 | [1917-maximum-average-pass-ratio](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1917-maximum-average-pass-ratio) |
@@ -673,6 +674,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2054-two-best-non-overlapping-events](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2054-two-best-non-overlapping-events) |
