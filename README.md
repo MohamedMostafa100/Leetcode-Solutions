@@ -47,6 +47,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [0830-largest-triangle-area](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0830-largest-triangle-area) |
 | [0840-magic-squares-in-grid](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0840-magic-squares-in-grid) |
 | [0874-walking-robot-simulation](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0874-walking-robot-simulation) |
+| [0932-beautiful-array](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0932-beautiful-array) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0940-fruit-into-baskets) |
 | [0944-delete-columns-to-make-sorted](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0944-delete-columns-to-make-sorted) |
@@ -854,6 +855,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [0840-magic-squares-in-grid](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0840-magic-squares-in-grid) |
 | [0867-new-21-game](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0900-reordered-power-of-2) |
+| [0932-beautiful-array](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0932-beautiful-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1266-minimum-time-visiting-all-points](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
@@ -1349,6 +1351,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0190-reverse-bits](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0190-reverse-bits) |
+| [0932-beautiful-array](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0932-beautiful-array) |
 | [1382-balance-a-binary-search-tree](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3655-xor-after-range-multiplication-queries-ii) |
