@@ -17,6 +17,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [0066-plus-one](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0084-largest-rectangle-in-histogram](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0118-pascals-triangle](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -570,6 +571,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [0036-valid-sudoku](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0041-first-missing-positive) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0146-lru-cache) |
 | [0166-fraction-to-recurring-decimal](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0166-fraction-to-recurring-decimal) |
@@ -1097,6 +1099,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -1209,6 +1212,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -1343,6 +1347,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0190-reverse-bits](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0190-reverse-bits) |
 | [1382-balance-a-binary-search-tree](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
