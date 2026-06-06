@@ -33,6 +33,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [0417-pacific-atlantic-water-flow](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0474-ones-and-zeroes](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
+| [0493-reverse-pairs](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
 | [0498-diagonal-traverse](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0498-diagonal-traverse) |
 | [0594-longest-harmonious-subsequence](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [0033-search-in-rotated-sorted-array](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0493-reverse-pairs](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
 | [0611-valid-triangle-number](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0794-swim-in-rising-water](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0794-swim-in-rising-water) |
@@ -1114,6 +1116,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 ## Segment Tree
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
 | [1622-fancy-sequence](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1622-fancy-sequence) |
 | [3161-block-placement-queries](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3161-block-placement-queries) |
 | [3454-separate-squares-ii](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3454-separate-squares-ii) |
@@ -1132,6 +1135,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 ## Ordered Set
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
 | [2023-design-movie-rental-system](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2429-design-a-food-rating-system) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -1351,6 +1355,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0190-reverse-bits](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0190-reverse-bits) |
+| [0493-reverse-pairs](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
 | [0932-beautiful-array](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0932-beautiful-array) |
 | [1382-balance-a-binary-search-tree](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
@@ -1399,5 +1404,10 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
 | [3161-block-placement-queries](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3161-block-placement-queries) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
