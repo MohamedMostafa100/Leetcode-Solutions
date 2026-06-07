@@ -98,6 +98,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1705-maximum-number-of-eaten-apples](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1705-maximum-number-of-eaten-apples) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -480,6 +481,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1705-maximum-number-of-eaten-apples](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1705-maximum-number-of-eaten-apples) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -728,6 +730,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [1354-construct-target-array-with-multiple-sums](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1612-avoid-flood-in-the-city](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1612-avoid-flood-in-the-city) |
+| [1705-maximum-number-of-eaten-apples](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1705-maximum-number-of-eaten-apples) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1917-maximum-average-pass-ratio](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [2023-design-movie-rental-system](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2023-design-movie-rental-system) |
