@@ -138,6 +138,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2169-simple-bank-system](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2169-simple-bank-system) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -610,6 +611,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [2121-intervals-between-identical-elements](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2121-intervals-between-identical-elements) |
 | [2169-simple-bank-system](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2402-meeting-rooms-iii](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2402-meeting-rooms-iii) |
@@ -1116,6 +1118,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -1231,6 +1234,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Geometry
 |  |
 | ------- |
