@@ -328,6 +328,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [0166-fraction-to-recurring-decimal](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0459-repeated-substring-pattern](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0459-repeated-substring-pattern) |
 | [0474-ones-and-zeroes](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0474-ones-and-zeroes) |
+| [0481-magical-string](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0481-magical-string) |
 | [0482-license-key-formatting](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0482-license-key-formatting) |
 | [0520-detect-capital](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0520-detect-capital) |
 | [0657-robot-return-to-origin](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0657-robot-return-to-origin) |
@@ -765,6 +766,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [0016-3sum-closest](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0016-3sum-closest) |
 | [0061-rotate-list](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0061-rotate-list) |
 | [0165-compare-version-numbers](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0165-compare-version-numbers) |
+| [0481-magical-string](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0481-magical-string) |
 | [0611-valid-triangle-number](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0696-count-binary-substrings](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0696-count-binary-substrings) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
