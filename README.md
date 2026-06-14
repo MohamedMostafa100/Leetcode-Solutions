@@ -299,6 +299,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [1970-last-day-where-you-can-still-cross](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2054-two-best-non-overlapping-events](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2054-two-best-non-overlapping-events) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
+| [2223-sum-of-scores-of-built-strings](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2223-sum-of-scores-of-built-strings) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -371,6 +372,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [2140-longest-subsequence-repeated-k-times](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2211-count-collisions-on-a-road](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2211-count-collisions-on-a-road) |
+| [2223-sum-of-scores-of-built-strings](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2223-sum-of-scores-of-built-strings) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -1107,6 +1109,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2079-delete-duplicate-folders-in-system) |
+| [2223-sum-of-scores-of-built-strings](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2223-sum-of-scores-of-built-strings) |
 ## Stack
 |  |
 | ------- |
@@ -1406,6 +1409,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 |  |
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [2223-sum-of-scores-of-built-strings](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2223-sum-of-scores-of-built-strings) |
 ## Union-Find
 |  |
 | ------- |
@@ -1428,6 +1432,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [0459-repeated-substring-pattern](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0796-rotate-string) |
+| [2223-sum-of-scores-of-built-strings](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2223-sum-of-scores-of-built-strings) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Bucket Sort
 |  |
@@ -1446,4 +1451,8 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
+## Suffix Array
+|  |
+| ------- |
+| [2223-sum-of-scores-of-built-strings](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2223-sum-of-scores-of-built-strings) |
 <!---LeetCode Topics End-->
