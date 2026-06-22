@@ -330,6 +330,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [0067-add-binary](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0165-compare-version-numbers](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0166-fraction-to-recurring-decimal) |
+| [0394-decode-string](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0394-decode-string) |
 | [0459-repeated-substring-pattern](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0459-repeated-substring-pattern) |
 | [0474-ones-and-zeroes](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0474-ones-and-zeroes) |
 | [0481-magical-string](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0481-magical-string) |
@@ -996,6 +997,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [0231-power-of-two](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0342-power-of-four) |
+| [0394-decode-string](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0394-decode-string) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -1129,6 +1131,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [0094-binary-tree-inorder-traversal](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0232-implement-queue-using-stacks](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0394-decode-string](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0394-decode-string) |
 | [0636-exclusive-time-of-functions](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0636-exclusive-time-of-functions) |
 | [0739-daily-temperatures](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [1441-build-an-array-with-stack-operations](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1441-build-an-array-with-stack-operations) |
