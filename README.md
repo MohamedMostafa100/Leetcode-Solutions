@@ -540,6 +540,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | ------- |
 | [0022-generate-parentheses](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
+| [0077-combinations](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0077-combinations) |
 | [0401-binary-watch](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0401-binary-watch) |
 | [0679-24-game](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0679-24-game) |
 | [0756-pyramid-transition-matrix](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0756-pyramid-transition-matrix) |
