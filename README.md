@@ -328,6 +328,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [0005-longest-palindromic-substring](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0067-add-binary) |
+| [0093-restore-ip-addresses](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0093-restore-ip-addresses) |
 | [0165-compare-version-numbers](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0394-decode-string](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0394-decode-string) |
@@ -542,6 +543,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [0022-generate-parentheses](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
 | [0077-combinations](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0077-combinations) |
+| [0093-restore-ip-addresses](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0093-restore-ip-addresses) |
 | [0401-binary-watch](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0401-binary-watch) |
 | [0679-24-game](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0679-24-game) |
 | [0756-pyramid-transition-matrix](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0756-pyramid-transition-matrix) |
