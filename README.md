@@ -122,6 +122,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [1920-build-array-from-permutation](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1975-maximum-matrix-sum) |
 | [1980-find-unique-binary-string](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1980-find-unique-binary-string) |
@@ -373,6 +374,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [1871-jump-game-vii](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1930-unique-length-3-palindromic-subsequences) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1980-find-unique-binary-string) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2079-delete-duplicate-folders-in-system) |
