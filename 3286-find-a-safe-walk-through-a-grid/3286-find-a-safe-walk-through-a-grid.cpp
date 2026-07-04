@@ -1,32 +1,60 @@
 class Solution {
 public:
     bool findSafeWalk(vector<vector<int>>& grid, int health) {
-        int m = grid.size(), n = grid[0].size();
-        vector<vector<int>> dis(m, vector<int>(n, -1));
-        int dirs[4][2] = {{0, 1}, {1, 0}, {-1, 0}, {0, -1}};
-
-        priority_queue<tuple<int, int, int>, vector<tuple<int, int, int>>,
-                       greater<>>
-            pq;
-        pq.emplace(grid[0][0], 0, 0);
-        while (!pq.empty()) {
-            auto [val, cx, cy] = pq.top();
-            pq.pop();
-            if (dis[cx][cy] >= 0) {
+        int m = grid.size();
+        int n = grid[0].size();
+        priority_queue<pair<int, int>, vector<pair<int, int>>, greater<pair<int, int>>> minHeap;
+        unordered_set<int> visited;
+        minHeap.push({grid[0][0], 0});
+        while(!minHeap.empty())
+        {
+            int cost = minHeap.top().first;
+            int node = minHeap.top().second;
+            minHeap.pop();
+            if(visited.count(node))
+            {
                 continue;
             }
-            dis[cx][cy] = val;
-            for (int k = 0; k < 4; k++) {
-                int nx = cx + dirs[k][0];
-                int ny = cy + dirs[k][1];
-                if (nx < 0 || ny < 0 || nx >= m || ny >= n ||
-                    dis[nx][ny] >= 0) {
-                    continue;
+            visited.insert(node);
+            int i = node / n;
+            int j = node % n;
+            if(i == m - 1 && j == n - 1)
+            {
+                return true;
+            }
+            if(j - 1 >= 0)
+            {
+                int newNode = n * i + (j - 1);
+                if(!visited.count(newNode) && cost + grid[i][j - 1] < health)
+                {
+                    minHeap.push({cost + grid[i][j - 1], newNode});
                 }
-                pq.emplace(val + grid[nx][ny], nx, ny);
+            }
+            if(j + 1 < n)
+            {
+                int newNode = n * i + (j + 1);
+                if(!visited.count(newNode) && cost + grid[i][j + 1] < health)
+                {
+                    minHeap.push({cost + grid[i][j + 1], newNode});
+                }
+            }
+            if(i - 1 >= 0)
+            {
+                int newNode = n * (i - 1) + j;
+                if(!visited.count(newNode) && cost + grid[i - 1][j] < health)
+                {
+                    minHeap.push({cost + grid[i - 1][j], newNode});
+                }
+            }
+            if(i + 1 < m)
+            {
+                int newNode = n * (i + 1) + j;
+                if(!visited.count(newNode) && cost + grid[i + 1][j] < health)
+                {
+                    minHeap.push({cost + grid[i + 1][j], newNode});
+                }
             }
         }
-
-        return dis[m - 1][n - 1] < health;
+        return false;
     }
 };
