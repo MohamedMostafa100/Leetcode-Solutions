@@ -1,43 +1,54 @@
-using PII = pair<int, int>;
-
 class Solution {
-private:
-    static constexpr int mod = (int)1e9 + 7;
-
 public:
-    void update(vector<vector<PII>>& dp, int n, int x, int y, int u, int v) {
-        if (u >= n || v >= n || dp[u][v].first == -1) {
-            return;
-        }
-        if (dp[u][v].first > dp[x][y].first) {
-            dp[x][y] = dp[u][v];
-        } else if (dp[u][v].first == dp[x][y].first) {
-            dp[x][y].second += dp[u][v].second;
-            if (dp[x][y].second >= mod) {
-                dp[x][y].second -= mod;
-            }
-        }
-    }
-
     vector<int> pathsWithMaxScore(vector<string>& board) {
-        int n = board.size();
-        vector<vector<PII>> dp(n, vector<PII>(n, {-1, 0}));
-        dp[n - 1][n - 1] = {0, 1};
-        for (int i = n - 1; i >= 0; --i) {
-            for (int j = n - 1; j >= 0; --j) {
-                if (!(i == n - 1 && j == n - 1) && board[i][j] != 'X') {
-                    update(dp, n, i, j, i + 1, j);
-                    update(dp, n, i, j, i, j + 1);
-                    update(dp, n, i, j, i + 1, j + 1);
-                    if (dp[i][j].first != -1) {
-                        dp[i][j].first +=
-                            (board[i][j] == 'E' ? 0 : board[i][j] - '0');
-                    }
-                }
-            }
+        int m = board.size();
+        int n = board[0].length();
+        vector<vector<int>> dp1(m, vector<int>(n, -1));
+        vector<vector<long long>> dp2(m, vector<long long>(n, -1));
+        dp1[0][0] = 0;
+        dp2[0][0] = 1;
+        int maxSum = max(0, solve1(board, dp1, m - 1, n - 1));
+        int maxSumPaths = solve2(board, dp1, dp2, m - 1, n - 1, maxSum);
+        return {maxSum, maxSumPaths};
+    }
+private:
+    int solve1(vector<string>& board, vector<vector<int>>& dp1, int i, int j)
+    {
+        if(i < 0 || j < 0 || board[i][j] == 'X')
+        {
+            return INT_MIN / 2;
         }
-        return dp[0][0].first == -1
-                   ? vector<int>{0, 0}
-                   : vector<int>{dp[0][0].first, dp[0][0].second};
+        if(dp1[i][j] == -1)
+        {
+            dp1[i][j] = INT_MIN / 2;
+            int toAdd = 0;
+            if(board[i][j] != 'S')
+            {
+                toAdd = board[i][j] - '0';
+            }
+            dp1[i][j] = max(dp1[i][j], solve1(board, dp1, i - 1, j) + toAdd);
+            dp1[i][j] = max(dp1[i][j], solve1(board, dp1, i, j - 1) + toAdd);
+            dp1[i][j] = max(dp1[i][j], solve1(board, dp1, i - 1, j - 1) + toAdd);
+        }
+        return dp1[i][j];
+    }
+    int solve2(vector<string>& board, vector<vector<int>>& dp1, vector<vector<long long>>& dp2, int i, int j, int curSum)
+    {
+        if(i < 0 || j < 0 || board[i][j] == 'X' || dp1[i][j] != curSum)
+        {
+            return 0;
+        }
+        if(dp2[i][j] == -1)
+        {
+            dp2[i][j] = 0;
+            if(board[i][j] != 'S')
+            {
+                curSum -= (board[i][j] - '0');
+            }
+            dp2[i][j] = (dp2[i][j] + solve2(board, dp1, dp2, i - 1, j, curSum)) % 1000000007;
+            dp2[i][j] = (dp2[i][j] + solve2(board, dp1, dp2, i, j - 1, curSum)) % 1000000007;
+            dp2[i][j] = (dp2[i][j] + solve2(board, dp1, dp2, i - 1, j - 1, curSum)) % 1000000007;
+        }
+        return dp2[i][j] % 1000000007;
     }
 };
