@@ -1,37 +1,32 @@
 class Solution {
-    static constexpr int MOD = 1e9 + 7;
-
 public:
     int subsequencePairCount(vector<int>& nums) {
-        int m = *max_element(nums.begin(), nums.end());
-        int n = nums.size();
-
-        vector<vector<int>> dp(m + 1, vector<int>(m + 1));
-        dp[0][0] = 1;
-
-        for (int num : nums) {
-            vector<vector<int>> ndp(m + 1, vector<int>(m + 1));
-            for (int j = 0; j <= m; j++) {
-                int divisor1 = gcd(j, num);
-                for (int k = 0; k <= m; k++) {
-                    int val = dp[j][k];
-                    if (val == 0) {
-                        continue;
-                    }
-                    int divisor2 = gcd(k, num);
-                    ndp[j][k] = (ndp[j][k] + val) % MOD;
-                    ndp[divisor1][k] = (ndp[divisor1][k] + val) % MOD;
-                    ndp[j][divisor2] = (ndp[j][divisor2] + val) % MOD;
-                }
+        int maxNum = 0;
+        for(int i = 0; i < nums.size(); i++)
+        {
+            maxNum = max(maxNum, nums[i]);
+        }
+        vector<vector<vector<int>>> dp(nums.size(), vector<vector<int>>(maxNum + 1, vector<int>(maxNum + 1, -1)));
+        return solve(nums, dp, 0, 0, 0);
+    }
+private:
+    int solve(vector<int>& nums, vector<vector<vector<int>>>& dp, int i, int g1, int g2)
+    {
+        if(i == nums.size())
+        {
+            if(g1 > 0 && g2 > 0 && g1 == g2)
+            {
+                return 1;
             }
-            dp.swap(ndp);
+            return 0;
         }
-
-        int ans = 0;
-        for (int j = 1; j <= m; j++) {
-            ans = (ans + dp[j][j]) % MOD;
+        if(dp[i][g1][g2] == -1)
+        {
+            dp[i][g1][g2] = 0;
+            dp[i][g1][g2] = (dp[i][g1][g2] + solve(nums, dp, i + 1, g1 == 0 ? nums[i] : gcd(g1, nums[i]), g2)) % 1000000007;
+            dp[i][g1][g2] = (dp[i][g1][g2] + solve(nums, dp, i + 1, g1, g2 == 0 ? nums[i] : gcd(g2, nums[i]))) % 1000000007;
+            dp[i][g1][g2] = (dp[i][g1][g2] + solve(nums, dp, i + 1, g1, g2)) % 1000000007;
         }
-
-        return ans;
+        return dp[i][g1][g2];
     }
 };
