@@ -27,6 +27,6 @@ private:
             dp[i][g1][g2] = (dp[i][g1][g2] + solve(nums, dp, i + 1, g1, g2 == 0 ? nums[i] : gcd(g2, nums[i]))) % 1000000007;
             dp[i][g1][g2] = (dp[i][g1][g2] + solve(nums, dp, i + 1, g1, g2)) % 1000000007;
         }
-        return dp[i][g1][g2];
+        return dp[i][g1][g2] % 1000000007;
     }
 };
