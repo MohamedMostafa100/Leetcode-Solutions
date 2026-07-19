@@ -369,6 +369,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1006-vowel-spellchecker](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1006-vowel-spellchecker) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -518,6 +519,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [0759-set-intersection-size-at-least-two](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0759-set-intersection-size-at-least-two) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1018-largest-perimeter-triangle) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1382-balance-a-binary-search-tree](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-maximum-69-number](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1448-maximum-69-number) |
@@ -1207,6 +1209,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [0394-decode-string](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0394-decode-string) |
 | [0636-exclusive-time-of-functions](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0636-exclusive-time-of-functions) |
 | [0739-daily-temperatures](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1441-build-an-array-with-stack-operations](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1628-count-submatrices-with-all-ones](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1628-count-submatrices-with-all-ones) |
@@ -1338,6 +1341,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [0084-largest-rectangle-in-histogram](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0739-daily-temperatures](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1628-count-submatrices-with-all-ones](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
