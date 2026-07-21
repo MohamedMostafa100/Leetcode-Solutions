@@ -18,7 +18,7 @@ public:
             if(s[i] == '0')
             {
                 seqCount++;
-                while(s[i] == '0')
+                while(i < s.length() && s[i] == '0')
                 {
                     cur++;
                     i++;
