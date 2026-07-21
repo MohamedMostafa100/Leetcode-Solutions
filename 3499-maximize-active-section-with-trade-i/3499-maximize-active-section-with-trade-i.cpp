@@ -13,7 +13,6 @@ public:
                 res++;
             }
         }
-        s = "1" + s + "1";
         for(int i = 0; i < s.length(); i++)
         {
             if(s[i] == '0')
@@ -31,6 +30,10 @@ public:
                 prev = cur;
                 cur = 0;
             }
+        }
+        if(seqCount >= 2)
+        {
+            maxLength = max(maxLength, cur + prev);
         }
         res += maxLength;
         return res;
