@@ -348,6 +348,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0008-string-to-integer-atoi](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0008-string-to-integer-atoi) |
 | [0022-generate-parentheses](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0093-restore-ip-addresses](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0093-restore-ip-addresses) |
