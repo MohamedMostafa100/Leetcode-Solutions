@@ -56,6 +56,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [0934-bitwise-ors-of-subarrays](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0940-fruit-into-baskets) |
 | [0944-delete-columns-to-make-sorted](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0944-delete-columns-to-make-sorted) |
+| [0952-largest-component-size-by-common-factor](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0952-largest-component-size-by-common-factor) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -661,6 +662,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [0874-walking-robot-simulation](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0874-walking-robot-simulation) |
 | [0900-reordered-power-of-2](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0940-fruit-into-baskets) |
+| [0952-largest-component-size-by-common-factor](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0952-largest-component-size-by-common-factor) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1006-vowel-spellchecker](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1006-vowel-spellchecker) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -967,6 +969,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [0867-new-21-game](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0900-reordered-power-of-2) |
 | [0932-beautiful-array](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0932-beautiful-array) |
+| [0952-largest-component-size-by-common-factor](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0952-largest-component-size-by-common-factor) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1266-minimum-time-visiting-all-points](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
@@ -1415,6 +1418,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0204-count-primes) |
+| [0952-largest-component-size-by-common-factor](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0952-largest-component-size-by-common-factor) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2523-closest-prime-numbers-in-range](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2523-closest-prime-numbers-in-range) |
@@ -1556,6 +1560,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0200-number-of-islands) |
+| [0952-largest-component-size-by-common-factor](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0952-largest-component-size-by-common-factor) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
