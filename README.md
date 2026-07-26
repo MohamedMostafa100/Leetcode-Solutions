@@ -1513,6 +1513,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0207-course-schedule) |
+| [2076-process-restricted-friend-requests](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2076-process-restricted-friend-requests) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -1564,6 +1565,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+| [2076-process-restricted-friend-requests](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2076-process-restricted-friend-requests) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
