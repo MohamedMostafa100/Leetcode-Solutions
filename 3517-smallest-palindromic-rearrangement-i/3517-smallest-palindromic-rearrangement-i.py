@@ -8,9 +8,7 @@ class Solution:
             alpha[ord(ch) - ord('a')] += 1
         for idx in range(26):
             freq = alpha[idx]
-            if freq == 1:
-                res[n // 2] = chr(idx + ord('a'))
-            elif freq >= 2:
+            if freq > 0:
                 for j in range(freq // 2):
                     res[i] = chr(idx + ord('a'))
                     res[-i - 1] = chr(idx + ord('a'))
