@@ -35,6 +35,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [0417-pacific-atlantic-water-flow](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0474-ones-and-zeroes](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
 | [0498-diagonal-traverse](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0498-diagonal-traverse) |
 | [0594-longest-harmonious-subsequence](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
@@ -462,6 +463,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0396-rotate-function](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0396-rotate-function) |
 | [0474-ones-and-zeroes](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0474-ones-and-zeroes) |
+| [0486-predict-the-winner](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0788-rotated-digits](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0799-champagne-tower) |
@@ -969,6 +971,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [0326-power-of-three](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0342-power-of-four) |
 | [0396-rotate-function](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0396-rotate-function) |
+| [0486-predict-the-winner](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0679-24-game](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0679-24-game) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -1104,6 +1107,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [0326-power-of-three](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0394-decode-string) |
+| [0486-predict-the-winner](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -1424,6 +1428,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [3462-vowels-game-in-a-string](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3462-vowels-game-in-a-string) |
 ## Number Theory
 |  |
