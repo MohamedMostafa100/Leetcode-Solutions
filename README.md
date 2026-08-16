@@ -142,6 +142,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2023-design-movie-rental-system) |
+| [2029-stone-game-ix](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2054-two-best-non-overlapping-events](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2054-two-best-non-overlapping-events) |
 | [2065-maximum-path-quality-of-a-graph](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2065-maximum-path-quality-of-a-graph) |
@@ -570,6 +571,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [1975-maximum-matrix-sum](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1975-maximum-matrix-sum) |
+| [2029-stone-game-ix](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2126-destroying-asteroids) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2140-longest-subsequence-repeated-k-times) |
@@ -628,6 +630,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [1189-maximum-number-of-balloons](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
+| [2029-stone-game-ix](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2833-furthest-point-from-origin](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2833-furthest-point-from-origin) |
@@ -1027,6 +1030,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1925-count-square-sum-triples](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1925-count-square-sum-triples) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
@@ -1464,6 +1468,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [0877-stone-game](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
 | [3462-vowels-game-in-a-string](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3462-vowels-game-in-a-string) |
 ## Number Theory
 |  |
@@ -1679,9 +1684,15 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | ------- |
 | [1140-stone-game-ii](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
