@@ -100,6 +100,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1563-stone-game-v](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1563-stone-game-v) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1590-make-sum-divisible-by-p](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1590-make-sum-divisible-by-p) |
@@ -493,6 +494,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [1406-stone-game-iii](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1406-stone-game-iii) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1563-stone-game-v](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1563-stone-game-v) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1628-count-submatrices-with-all-ones](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1628-count-submatrices-with-all-ones) |
@@ -1021,6 +1023,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1448-maximum-69-number) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1563-stone-game-v](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1563-stone-game-v) |
 | [1622-fancy-sequence](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1622-fancy-sequence) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1642-water-bottles) |
@@ -1468,6 +1471,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [0877-stone-game](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1406-stone-game-iii) |
+| [1563-stone-game-v](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
 | [3462-vowels-game-in-a-string](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3462-vowels-game-in-a-string) |
 ## Number Theory
