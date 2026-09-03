@@ -320,6 +320,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3863-power-grid-maintenance](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3863-power-grid-maintenance) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -1099,6 +1100,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [3830-find-closest-person](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3830-find-closest-person) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
