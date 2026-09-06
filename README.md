@@ -378,6 +378,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [0022-generate-parentheses](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0093-restore-ip-addresses](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0093-restore-ip-addresses) |
+| [0115-distinct-subsequences](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0165-compare-version-numbers](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0316-remove-duplicate-letters](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0316-remove-duplicate-letters) |
@@ -477,6 +478,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [0005-longest-palindromic-substring](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0085-maximal-rectangle](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
+| [0115-distinct-subsequences](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
