@@ -233,6 +233,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [3379-transformed-array](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3379-transformed-array) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3433-count-mentions-per-user) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3161-block-placement-queries](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3161-block-placement-queries) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3453-separate-squares-i](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3454-separate-squares-ii) |
@@ -531,6 +533,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [3225-maximum-score-from-grid-operations](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3225-maximum-score-from-grid-operations) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -843,6 +846,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [3075-maximize-happiness-of-selected-children](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3433-count-mentions-per-user](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3433-count-mentions-per-user) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
