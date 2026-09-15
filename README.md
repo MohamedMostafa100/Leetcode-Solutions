@@ -1024,6 +1024,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [0788-rotated-digits](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0788-rotated-digits) |
 | [0826-soup-servings](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0826-soup-servings) |
 | [0830-largest-triangle-area](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0830-largest-triangle-area) |
+| [0836-rectangle-overlap](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0836-rectangle-overlap) |
 | [0840-magic-squares-in-grid](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0840-magic-squares-in-grid) |
 | [0867-new-21-game](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0867-new-21-game) |
 | [0877-stone-game](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0877-stone-game) |
@@ -1468,6 +1469,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0830-largest-triangle-area) |
+| [0836-rectangle-overlap](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0836-rectangle-overlap) |
 | [1266-minimum-time-visiting-all-points](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
