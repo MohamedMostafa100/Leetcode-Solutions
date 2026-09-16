@@ -1,33 +1,27 @@
 class Solution {
 public:
     int maxPalindromes(string s, int k) {
-        int n = s.size();
-        int ans = 0, start = 0;
-
-        auto check = [&](int l, int r) {
-            while (l < r) {
-                if (s[l++] != s[r--]) {
-                    return false;
-                }
-            }
-            return true;
-        };
-
-        for (int r = k - 1; r < n; ++r) {
-            int l = r - k + 1;
-            if (l >= start && check(l, r)) {
-                ++ans;
-                start = r + 1;
-                continue;
-            }
-
-            l = r - k;
-            if (l >= start && check(l, r)) {
-                ++ans;
+        int res = 0;
+        int start = 0;
+        for (int r = k - 1; r < s.length(); r++) {
+            if ((r - k + 1 >= start && check(s, r - k + 1, r)) ||
+                (r - k >= start && check(s, r - k, r))) {
+                res++;
                 start = r + 1;
             }
         }
+        return res;
+    }
 
-        return ans;
+private:
+    bool check(string& s, int l, int r) {
+        while (l < r) {
+            if (s[l] != s[r]) {
+                return false;
+            }
+            l++;
+            r--;
+        }
+        return true;
     }
 };
