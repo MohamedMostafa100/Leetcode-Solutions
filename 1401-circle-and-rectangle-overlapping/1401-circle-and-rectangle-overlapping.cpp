@@ -1,52 +1,34 @@
 class Solution {
 public:
-    long long distance(int ux, int uy, int vx, int vy) {
-        return (long long)pow(ux - vx, 2) + (long long)pow(uy - vy, 2);
-    }
-
-    bool checkOverlap(int radius, int xCenter, int yCenter, int x1, int y1,
-                      int x2, int y2) {
-        /* The center of the circle is inside the rectangle */
-        if (x1 <= xCenter && xCenter <= x2 && y1 <= yCenter && yCenter <= y2) {
-            return true;
+    bool checkOverlap(int radius, int xCenter, int yCenter, int x1, int y1, int x2, int y2) {
+        int xNearest = 0;
+        int yNearest = 0;
+        float dist = 0;
+        if(xCenter >= x1 && xCenter <= x2)
+        {
+            xNearest = xCenter;
         }
-        /* The center of the circle is above the rectangle*/
-        if (x1 <= xCenter && xCenter <= x2 && y2 <= yCenter &&
-            yCenter <= y2 + radius) {
-            return true;
+        else if(abs(xCenter - x1) <= abs(xCenter - x2))
+        {
+            xNearest = x1;
         }
-        /* The center of the circle is below the rectangle*/
-        if (x1 <= xCenter && xCenter <= x2 && y1 - radius <= yCenter &&
-            yCenter <= y1) {
-            return true;
+        else
+        {
+            xNearest = x2;
         }
-        /* The center of the circle is to the left of the rectangle*/
-        if (x1 - radius <= xCenter && xCenter <= x1 && y1 <= yCenter &&
-            yCenter <= y2) {
-            return true;
+        if(yCenter >= y1 && yCenter <= y2)
+        {
+            yNearest = yCenter;
         }
-        /* The center of the circle is to the right of the rectangle*/
-        if (x2 <= xCenter && xCenter <= x2 + radius && y1 <= yCenter &&
-            yCenter <= y2) {
-            return true;
+        else if(abs(yCenter - y1) <= abs(yCenter - y2))
+        {
+            yNearest = y1;
         }
-        /* The upper-left corner of the rectangle */
-        if (distance(xCenter, yCenter, x1, y2) <= radius * radius) {
-            return true;
+        else
+        {
+            yNearest = y2;
         }
-        /* The lower-left corner of the rectangle */
-        if (distance(xCenter, yCenter, x1, y1) <= radius * radius) {
-            return true;
-        }
-        /* The upper-right corner of the rectangle */
-        if (distance(xCenter, yCenter, x2, y2) <= radius * radius) {
-            return true;
-        }
-        /* The lower-right corner of the rectangle */
-        if (distance(xCenter, yCenter, x2, y1) <= radius * radius) {
-            return true;
-        }
-        /* No intersection */
-        return false;
+        dist = sqrt(pow(xCenter - xNearest, 2) + pow(yCenter - yNearest, 2));
+        return !(dist > radius);
     }
 };
