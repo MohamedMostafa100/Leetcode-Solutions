@@ -401,6 +401,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [0756-pyramid-transition-matrix](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0756-pyramid-transition-matrix) |
 | [0796-rotate-string](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0796-rotate-string) |
 | [0831-masking-personal-information](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0831-masking-personal-information) |
+| [0856-score-of-parentheses](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0856-score-of-parentheses) |
 | [0944-delete-columns-to-make-sorted](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -1333,6 +1334,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [0394-decode-string](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0394-decode-string) |
 | [0636-exclusive-time-of-functions](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0636-exclusive-time-of-functions) |
 | [0739-daily-temperatures](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
+| [0856-score-of-parentheses](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0856-score-of-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -1756,6 +1758,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 ## Bracket Sequences
 |  |
 | ------- |
+| [0856-score-of-parentheses](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
