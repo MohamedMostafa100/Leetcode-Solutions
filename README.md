@@ -102,6 +102,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1563-stone-game-v](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1590-make-sum-divisible-by-p](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1590-make-sum-divisible-by-p) |
@@ -522,6 +523,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1563-stone-game-v](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1628-count-submatrices-with-all-ones](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1628-count-submatrices-with-all-ones) |
@@ -636,6 +638,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 ## Memoization
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -1078,6 +1081,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [1448-maximum-69-number](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1448-maximum-69-number) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1563-stone-game-v](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1622-fancy-sequence](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1622-fancy-sequence) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1642-water-bottles) |
@@ -1377,6 +1381,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2872-maximum-number-of-k-divisible-components) |
@@ -1506,6 +1511,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Geometry
 |  |
@@ -1560,6 +1566,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 ## Combinatorics
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -1677,6 +1684,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [0493-reverse-pairs](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
 | [0932-beautiful-array](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0932-beautiful-array) |
 | [1382-balance-a-binary-search-tree](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
@@ -1687,6 +1695,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 |  |
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -1700,6 +1709,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [0952-largest-component-size-by-common-factor](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0952-largest-component-size-by-common-factor) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2076-process-restricted-friend-requests](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2076-process-restricted-friend-requests) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -1775,4 +1785,8 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [0856-score-of-parentheses](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
