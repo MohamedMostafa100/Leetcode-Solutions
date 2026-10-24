@@ -454,6 +454,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2409-count-days-spent-together](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2409-count-days-spent-together) |
 | [2429-design-a-food-rating-system](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2429-design-a-food-rating-system) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -1103,6 +1104,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [2288-count-operations-to-obtain-zero](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2288-count-operations-to-obtain-zero) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2409-count-days-spent-together](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2409-count-days-spent-together) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2485-find-the-pivot-integer](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2485-find-the-pivot-integer) |
 | [2523-closest-prime-numbers-in-range](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2523-closest-prime-numbers-in-range) |
