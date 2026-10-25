@@ -10,7 +10,7 @@ class Solution:
             if i == 0 or j == 0 or i == m - 1 or j == n - 1:
                 visited[i][j] = 1
             if visited[i][j] == -1:
-                visited[i][j] = float('inf')
+                visited[i][j] = 2
                 visited[i][j] = min(dfs(i + 1, j), dfs(i, j + 1), dfs(i - 1, j), dfs(i, j - 1))
             return visited[i][j]
         for i in range(m):
