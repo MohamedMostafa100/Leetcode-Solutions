@@ -133,6 +133,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [1861-rotating-the-box](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1861-rotating-the-box) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [1882-process-tasks-using-servers](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1882-process-tasks-using-servers) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [1895-largest-magic-square](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1895-largest-magic-square) |
@@ -922,6 +923,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [1612-avoid-flood-in-the-city](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [1705-maximum-number-of-eaten-apples](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1705-maximum-number-of-eaten-apples) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [1882-process-tasks-using-servers](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1882-process-tasks-using-servers) |
 | [1917-maximum-average-pass-ratio](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [2023-design-movie-rental-system](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2023-design-movie-rental-system) |
 | [2054-two-best-non-overlapping-events](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2054-two-best-non-overlapping-events) |
