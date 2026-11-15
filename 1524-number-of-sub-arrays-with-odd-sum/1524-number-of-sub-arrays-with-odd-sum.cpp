@@ -9,7 +9,7 @@ public:
         for(int i = 0; i < arr.size(); i++)
         {
             cur += arr[i];
-            if(cur % 2 == 1)
+            if(cur & 1)
             {
                 res++;
                 if(i > 0)
@@ -24,14 +24,14 @@ public:
         }
         for(int i = 1; i < arr.size(); i++)
         {
-            if(arr[i - 1] % 2 == 1)
+            if(arr[i - 1] & 1)
             {
                 int temp = even;
                 even = odd;
                 odd = temp;
             }
             res = (res + odd) % MOD;
-            if(arr[i] % 2 == 1)
+            if(arr[i] & 1)
             {
                 odd--;
             }
