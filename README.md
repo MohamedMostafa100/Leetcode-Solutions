@@ -101,6 +101,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -534,6 +535,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [1406-stone-game-iii](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1406-stone-game-iii) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1563-stone-game-v](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1563-stone-game-v) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -1010,6 +1012,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | ------- |
 | [1140-stone-game-ii](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1590-make-sum-divisible-by-p](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1590-make-sum-divisible-by-p) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
@@ -1099,6 +1102,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1448-maximum-69-number) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1563-stone-game-v](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1563-stone-game-v) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1622-fancy-sequence](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1622-fancy-sequence) |
