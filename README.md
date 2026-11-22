@@ -456,6 +456,7 @@ A collection of LeetCode questions! - Created using [LeetHub v2](https://github.
 | [1980-find-unique-binary-string](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/1980-find-unique-binary-string) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2079-delete-duplicate-folders-in-system) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/MohamedMostafa100/Leetcode-Solutions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
