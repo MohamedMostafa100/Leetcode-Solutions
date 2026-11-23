@@ -1,6 +1,6 @@
 class ProductOfNumbers {
 private:
-    vector<long long> nums;
+    vector<int> nums;
     int length;
     int lastZero;
 public:
