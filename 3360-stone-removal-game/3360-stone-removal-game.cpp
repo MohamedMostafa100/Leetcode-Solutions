@@ -1,12 +1,9 @@
 class Solution {
 public:
     bool canAliceWin(int n) {
-        int take = 10, k = 0;
-        while (n >= take) {
-            n -= take;
-            take--;
-            k++;
-        }
-        return k % 2 == 1;
+        int tot = (55 - n) * 2;
+        int x = ceil((-1 + sqrt(1 + 4 * tot)) / 2);
+        cout << x;
+        return x % 2 == 1;
     }
 };
